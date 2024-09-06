@@ -1,4 +1,7 @@
-# langchain-mystic
+# Langchain Mystic 🔮 
+
+![image](https://github.com/user-attachments/assets/e8f45cea-8aea-42c0-ba3b-f0a6204ebf6c)
+
 
 **langchain-mystic** is an advanced mystical bot built using LangChain. This bot specializes in dream interpretation, leveraging LangChain's powerful capabilities to provide deeper insights and more refined predictions.
 
