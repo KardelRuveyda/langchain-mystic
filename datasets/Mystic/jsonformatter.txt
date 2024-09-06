@@ -1,0 +1,717 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "text",
+      "type": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 0,
+      "row": {
+        "text": "<s>[INST] rüyada güreşmek görmek ne anlama gelir [/INST] Rüyada biriyle güreştiğini görmek, kendi zekası ve gayretiyle kişinin yükseleceğine işarettir. Rüyada bilek güreşi yapmak, hayatınızda bazı zorlukların olduğuna ama bu güçlüklerin üstesinden kolaylıkla geleceğinize işaret eder. Rüyada güreş tutmak, güreş tuttuğunuz kişi ile aranızda bir husumet varsa, yakın zamanda sorunlarınızı konuşarak halledeceğinize delalet eder. Rüyada deve güreşi görmek, böyle bir rüya gördükten sonra daha dikkatli olmalısınız. Ailenizden veya akrabalarınızdan birinin bir sağlık sorunu olabilir. Güreşmek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1,
+      "row": {
+        "text": "<s>[INST] rüyada gürgen görmek ne anlama gelir [/INST] Ağacı Rüyada gürgen görmek, kişinin yakınındaki güvendiği, iyi niyetli kişi ve dostu temsil eder. Kişinin destek göreceğine işarettir. Gürgen</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2,
+      "row": {
+        "text": "<s>[INST] rüyada gürültü görmek ne anlama gelir [/INST] Rüyada uykuda birtakım kişilerin gürültüsünü duymak fakat neler söylediklerini anlamamak, genç bir erkek için iyice anlamadan kabul etmemesi gereken bir teklif alacağına; orta yaşta ise imzalaması için verilen her raporu çok iyi incelemesi gerektiğine, aksi takdirde hareketinin tehlikeli olacağına işarettir. Gürültüsü, Gümbürtü Rüyada gürültülü yerde olmak, eğleneceğinizi umduğunuz bir aktiviteden mahrum kalacağınıza işarettir. Rüyada gürültülü bir ortamda bulunmak, zevk alacağınızı düşündüğünüz bir aktiviteden hiç zevk almayacağınız anlamına gelir. Rüyasında bazı gürültüler işiten kimse, birçok dedikodu ile karşılaşacak demektir. Gürültüyü çıkaran insanlar değil, makineler ise üzüleceğine, sıkıntıya uğrayacağına delalet eder. Gürültünün birden bire kesilmesi, selamete çıkmakla yorumlanır. Rüyada gürültüye maruz kalmak, hoşunuza gitmeyecek bazı haberler alacağınıza ve bu haberler sebebi ile üzüleceğinize işaret eder. Aynı zamanda bu haberler, iş hayatınızı ve aşk hayatınızı doğrudan etkileyecek haberler olabilir.  Gürültü</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 3,
+      "row": {
+        "text": "<s>[INST] rüyada güve görmek ne anlama gelir [/INST] Rüyada eşya yahut gıda maddesi üzerinde görülen güve, gam, keder ve hastalığa işarettir. Rüyada bir şeyi güvenin yediğini görmek, o şeyde meydana gelecek eksikliğe delalet eder. Ayrıca bkz: Yün, Böcek Rüyada kişi, giyim eşyalarını güvelerin yediğini görürse, dedikodu yüzünden zarar görür. Rüyada elbiselerinizi güvenin yediğini görmek, evinizde veya iş yerinizde çalışan bazı kimselerin sizin haberiniz olmadan size zarar verecek hareketlerde bulunduklarına, mallarınızı azar azar çalarak sattıklarına veya eşyalarınızı, alet ve edevatınızı hor kullanarak eskittiklerine delalet eder.  Rüyada bir eşya üzerinde güve görmek, keder ve hastalıklara da işarettir. Bir kitabı veya kağıdı güvenin yediğini görmek, tamamen hayırsız bir rüyadır. Güvenin yediği eşya, rüya sahibinin zararına işarettir. Özellikle rüyada güve görmek kesinlikle hayra yorumlanmaz.  Nablusiye göre: Rüyada güve görmek, keder ve hastalıklara delalet eder. Bu rüya iyi değildir. Bir rivayete göre de eşyada eksikliğe işarettir. Güve</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 4,
+      "row": {
+        "text": "<s>[INST] rüyada güven duymak görmek ne anlama gelir [/INST] Rüyada güven duymak kişinin korktuğu şeylerden kurtulacağı anlamına gelir. Güven Duymak</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 5,
+      "row": {
+        "text": "<s>[INST] rüyada güvercin görmek ne anlama gelir [/INST] Rüyada güverte görmek, yabancı yerden alınacak ilginç ve güzel haberdir. Rüyada güverte görmek ne demek: Rüyayı gören bekarsa evlenir. Evli ise çocuğu olur. Güverte dindar güzel bir kadına işaret eder. Güverteyi uzaktan görse, yükseklik, sevinç ve ululuğa işaret eder.  Rüyada güverteye çıktığını gören kimse korkuda ise korkusu gider, hasta ise, iyileşir. Bunlardan hiçbiri kendinde yoksa şeref ve sevince erer. Güverte</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 6,
+      "row": {
+        "text": "<s>[INST] rüyada güverte görmek ne anlama gelir [/INST] Rüyada güverte görmek, yabancı yerden alınacak ilginç ve güzel haberdir. Rüyada güverte görmek ne demek: Rüyayı gören bekarsa evlenir. Evli ise çocuğu olur. Güverte dindar güzel bir kadına işaret eder. Güverteyi uzaktan görse, yükseklik, sevinç ve ululuğa işaret eder.  Rüyada güverteye çıktığını gören kimse korkuda ise korkusu gider, hasta ise, iyileşir. Bunlardan hiçbiri kendinde yoksa şeref ve sevince erer. Güverte</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 7,
+      "row": {
+        "text": "<s>[INST] rüyada güvey görmek ne anlama gelir [/INST] Rüyada güvey görmek davullu, zurnalı ve çalgı aletli bir ortamda güvey görmek; birinin vefatına işarettir. Rüyada gelin yokken güvey olmak birinin vefatına delalettir. Gelin var ve adı da biliniyorsa, dünyalığa delalet eder. (Ayrıca Bakınız; Gelin.) Rüyasında evlenip güveyi olduğunu görmek, hayırlı bir işe girip para kazanacağı anlamına gelmektedir. Eğer kolunda gelin varsa, çok yakın zamanda kârının ve kazancının artacağına işarettir. Rüyada elindeki çiçeği geline verdiğini görmek eğer elinde bir çiçek olup da bunu geline veriyorsa, ondan bir çocuk beklediği anlamına gelir. Güvey</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 8,
+      "row": {
+        "text": "<s>[INST] rüyada güz görmek ne anlama gelir [/INST] Rüyada güz görmek, kişinin umutlarının boşa çıkacağına işarettir. Güz</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 9,
+      "row": {
+        "text": "<s>[INST] rüyada güzel görmek ne anlama gelir [/INST] Rüyada görülen şeylerin güzel olması daima çok iyidir. Huzur, mutluluk, rahat, müjde, kısmet olarak yorumlanır. Kişi rüyasında kendisini güzel görürse, onu çok güzel gelişmeler beklemektedir. Güzel</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 10,
+      "row": {
+        "text": "<s>[INST] rüyada güzel koku görmek ne anlama gelir [/INST] Rüyada güzel koku duymak; şeref ve yüceliğe, dünyalığa, hacca gitmeye, evlenmeye yahut çocuğu olmaya, müjde ve sevince, iyi bir isimle anılmaya, gizlice sadaka vermeye delalet eder. Kokulu Bitki Rüyada güzel kokan bir ortamda bulunmak, iyi kimselerle birlikteliğe; rüyada güzel koku sünnete uymaya, güzel ahlaka ve refah içinde yaşamaya delalet eder. Rüyada güzel kokulu ot satan birini görmek, insana hayrı dokunan kimseye; kaza ve kadere rıza gösteren, başına gelen her şeyi hoşnutlukla karşılayan olgun bir müslümana delalet eder. Güzel Koku </s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 11,
+      "row": {
+        "text": "<s>[INST] rüyada güzel konuşmak görmek ne anlama gelir [/INST] Bakınız; Konuşmak. Rüyada güzel konuşmak için elinden geleni yaptığını ama güzel konuşamadığını gören kişi hayatında kendini ifade etmek istediği bir kişiye kendini ifade edemeyecek şeklinde yorumlanır. Rüyada güzel konuşma (diksiyon) dersleri alan kişi, kendini geliştirecek bu tarz kurslara gitmeye niyet eder. Rüyada güzel konuşan bir insanı çok keyif alarak ve önemseyerek dinlediğini gören kişi mutlu olmak için büyüklerinin sözünü dinleyecek demektir. Güzel Konuşmak</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 12,
+      "row": {
+        "text": "<s>[INST] rüyada güzellik görmek ne anlama gelir [/INST] Rüyada insanın kendi vücudunda güzellik görmek rüyayı gören kişinin kullandığı eşyada yahut bulunduğu mekanda gözlediği güzellik; düşmanın perişan haline yahut, aldatıcı dünya cazibelerine işaret eder. Rüyada huy ve ahlak güzelliği görmek dünya ve ahiret mutluluğuna delalettir. Rüyada temiz yüzlü güzel insan görmek sevinç ve müjdeye delalet eder. Rüyada güzellik görmek mutlu olacağınıza, iş hayatınızda birçok başarıya imza atacağınıza delalettir.  Rüyada güzel bir çocuk görmek mutlu bir ilişkinin habercisidir. (Genç Kız veya Kadın Görmek, Rüyada Güzel Kokulu Otlar Görmek) Güzellik</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 13,
+      "row": {
+        "text": "<s>[INST] rüyada haber görmek ne anlama gelir [/INST] Rüyada gizli bir şeyi haber vermek ihanete, ilim ve hikmeti ehil olmayanlara vermeye; hayırlı bir şeyden haber almak yahut vermek, müjde ve sevince; Rabbinin ona olan nimetlerinden bahsetmesi ilahi hoşnutluğa; kötü bir şeyi haber vermek, ikaz ve uyarıya delalet eeder. Rüyada güzel haberler almak, mutluluğun ve şansın habercisidir. Kötü haberler ise uğursuzluğa işaret eder. Kişinin yakın bir süre sonra sevinç yapacağına işaret eder. Rüyada bir yerden bir haber geldiğini görmek, hiç beklemediğiniz bir haber alıp sevineceğinize delalet eder.  Bir başka rivayete göre de: Bir kimse rüyada kendisine bir haber verildiğini görse, o kimseye sevineceği bir haber kendisine ulaşır. Bu haberin bir ölü veya çocuk tarafından verilmesi, verilen haberin aynı çıkmasına işaret eder. Haber</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 14,
+      "row": {
+        "text": "<s>[INST] rüyada haber vermek görmek ne anlama gelir [/INST] Almak Bir şeyi rüyada haber vermek, malını israf etmeye işaret eder. Rüyada Allah’ın kendisine verdiği nimetlerini haber vermesi, Allah’a şükretmeye ve verdiği nimete şükretmeye işaret eder. Haber Vermek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 15,
+      "row": {
+        "text": "<s>[INST] rüyada haberci görmek ne anlama gelir [/INST] Rüyada haber getiren bir adam görmek, çoktan beri düşündüğünüz, fakat bir gün hakikat olacağına ihtimal bile vermediğiniz bir şeyin olacağına ve çok sevineceğinize işarettir. Haberci</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 16,
+      "row": {
+        "text": "<s>[INST] rüyada haberdar olmak ne anlama gelir [/INST] Rüyada kendisi için gizli olan şeye muttali olmak, ilim ehli için gizli ilme veya büyük bir sanata; diğerleri için hile ve fesat çıkarmaya işaret eder. Almak Rüyada gizli olan şeyden haberdar olmak bazen hazine bulmaya, maden ve diğer toprak altında bulunan değerli şeyleri ortaya çıkarmaya delalet eder. Haberdar Olmak</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 17,
+      "row": {
+        "text": "<s>[INST] rüyada haberleşme görmek ne anlama gelir [/INST] Rüyada her türlü iletişim vasıtası ile gerçekleştirilen haberleşme, ‘yarı buluşma’ mesabesinde olup, akraba ve dostluk bağlarının pekişmesine, rızık ve uzun ömre işarettir. Rüyada savaşan tarafların haberleşmesine tanık olmak, hastanın vefatına, düşmanlıkların giderilmesine; haber getirip götürmek, izzet ve şerefe delalet eder. Haberleşme</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 18,
+      "row": {
+        "text": "<s>[INST] rüyada habeş görmek ne anlama gelir [/INST] Rüyada simsiyah bir habeş görmek, karanlık işlerinizin aydınlanacağı manasına gelir. Rüyada Habeşistanlı birini görmek de umutla beklediğiniz bir muradınızın olacağına delildir. Habeş</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 19,
+      "row": {
+        "text": "<s>[INST] rüyada habeşistan görmek ne anlama gelir [/INST] Rüyanızda Habeşistan’da bulunduğunu ve etrafınızı dilinizden anlayan Habeşlerin çevirdiğini görmek, uzun yıllardan beri görmediğiniz ve hatta adını bile unuttuğunuz bir arkadaşınızın birden bire çıkıp geleceğine ve size bazı garip hediyeler getireceğine işarettir. Habeşistan</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 20,
+      "row": {
+        "text": "<s>[INST] rüyada habil görmek ne anlama gelir [/INST] Rüyada Adem Aleyhisselamın bu mazlum evladını görmek, meziyetlerinden dolayı kıskanılmaya ve Allahu Teala’ya itaat etmeye delalet eder. Böyle bir rüya görenin arkadaş ve çevresine karşı dikkatli olması gerekir. Bir kimse rüyada Habil’i görse, o kimse hakkında dedikodu yapılır. Bazen de o kimse, suçsuz olarak öldürülür. Rüyada Habil’i gören kimse, Rabbine itaatta bulunur. Habil</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 21,
+      "row": {
+        "text": "<s>[INST] rüyada hacamat görmek ne anlama gelir [/INST] Bakınız; Kan Aldırmak, Hacamatçı, Rüyada hacamat yaptırmak, bazı tabirciler rüyada hacamat yaptırmayı hastalıktan şifaya; bazıları da mal varlığının bir kısmının elden çıkacağına yorumlamışlardır.  Rüyada hacamat yapmak, yeni yatırımlar yapmak istediğinize ve bu dönemde yeni adımlar atacağınıza işaret eder. Rüyada hacamat yapıldığını görmek, elinize çok para geçecek demektir. Başarı, kısmet, para ve murattır. Rüyada eşinin hacamat yaptırdığını görmek, rüya sahibinin yeni kazanç kapılarına yöneleceğine ve eşinin desteğini alacağına delalet eder. Hacamat</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 22,
+      "row": {
+        "text": "<s>[INST] rüyada hac görmek ne anlama gelir [/INST] Suresi, Hac Etmek, Hacı Rüyada mevsiminde hacca gidip, bu ibadeti şartlarına uygun bir şekilde eda ettiğini görmek; istikamet güzelliğine, korkudan emin olmaya, borçları ödemeye ve günahların affedilmesine; hac için yola çıkmak, kaybedilen iş ve konumu tekrar elde etmeye, yolcunun salimen evine dönmesine, hastanın şifa bulmasına, sapıklıkta olanın hidayet bulmasına işarettir. Rüyada hac ve umre ibadeti yapmak, yoksul için zenginliğe, diğerleri için makbul amele ve uzun ömre; haccetmek, zor ve çetin işleri Allah’ın (C.C.) yardımıyla başarmaya delalet eder. Rüyada birinin hacca gittiğini görmek, bu rüyayı gören kimse bütün sıkıntılarından kurtulacak demektir. Rüyada hacdan gelmek, gören kişinin bir isteği gerçekleşir. Hayal ettiği konuma ulaşır. Rüyada ölünün hacca gitmesi, hayırlı değildir. Gören kişi dininde küfre uğrar. Bir başka rivayete göre de: Rüyada ölen birinin hacca gitmesi; yalan söylemeye, koğuculuk yapmaya, zina ile iftira etmeye ve yalan yere şehadette bulunmaya işaret eder. Rüyada hac yolunda olmak, böyle bir rüyayı gören kişi evlenir veya o kimsenin bir çocuğu olur. Hac</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 23,
+      "row": {
+        "text": "<s>[INST] rüyada hac suresi görmek ne anlama gelir [/INST] Cafer-i Sadık’a göre; rüyasında Hac Suresini tamamen veya birkaç ayetini okuyan veya okuyanı dinlemek rüyayı görenin, dini inancı kuvvetli olur. Sık sık yola gider ve çabuk döner. Malını hayır işlerinde harcar, birçok defa hacca gitmesi nasip olur.  Suresi Bir başka rivayete göre de: Rüyada Sure-i Hac’i veya ondan bir ayeti okuduğunu görmek, defalarca hacca gitmeye işarettir. Hac Suresi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 24,
+      "row": {
+        "text": "<s>[INST] rüyada hacca gitmek görmek ne anlama gelir [/INST] Rüyasında hacca gittiğini görmek, hayırla yorumlanır. Hacca gitmek üç şekilde tabir olunur: Dinde olgunluk, işte güzellik, kudrette celal.  Rüyada mübarek yerlerden birine gitmek istediği halde, buna kudreti olmadığını gören eğer zengin ise fakir olur. Eğer fakir ise, içinden çıkamayacağı, başaramayacağı bir işe başlar. Hacc, Haccetmek, Hacda veya Umrede İhrama Girmek Rüyada yanında hacla ilgili bir şey olduğunu görmek, hayır ve hasenatta bulunacağına delalet eder.  Cafer-i Sadık’a göre: Rüyada Mahmel-i Şerif’i görmek beş şekilde tabir olunur: Emniyet, selamet, adalet, hac ve rahat. Abdulgani Nablusi’ye göre: Rüyada Hz. İbrahim (A.S.) makamında namaz kıldığını görmek, rüyayı gören şeriata uymuş olur. Mümin bir erkek olup, hacca gitmeye nail olur. Hz. İbrahim’in makamIna giren, her türlü korkudan emin olur ve büyük bir makama ulaşır.  RüyasInda kendisini Müzdelife’de görmek, emniyete ve Allah (C.C.) Hazretlerine sığınmaya ve hidayete işarettir. Üzerinde borç varsa ödeyeceğine delildir.  Rüyada kendisini hac yolunda görmek, dünya ve ahiret işlerinden istediği şeylere kavuşacağına delalet eder. Hacca Gitmek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 25,
+      "row": {
+        "text": "<s>[INST] rüyada haccetmek görmek ne anlama gelir [/INST] Rüyada haccettiğini, Kabe-i muazzamayı tavaf edip hac farizalarını yerine getirdiğini görmek, dininde güzellik ve istikamete, nail olacağı sevaba, korkudan emin olmaya, borcunu vermeye ve Müslümanlara vereceği emanetlere işaret eder. Ayrıca sevaba, korkudan emin olmaya, borcunu vermeye ve Müslümanlara vereceği emanetlere işaret eder. Eğer tüccar ise kazanç elde eder. Ayrıca bkz: Hac, Hacı Rüyada hac eden kimse talebe ise isteğine kavuşur. Fakir ise zengin olur ve ihtiyacı gider. Hasta ise ölür. Günahkar ise tövbe eder. Eğer evli ise hanımını boşar. Yahut din veya dünyasında faydalanacağı bir kimse ile dost olur. Bazen hac, bekar kimsenin evlenmesine işaret eder. Yaya olarak hacca gittiğini gören kimse, rızık ve ganimet sahibi olur.  Bazen de rüyada hacca gittiğini görmek, talebinin rüyada hac farizasını yerine getirdiğini görmesi; maksadına kavuşacağına işarettir. Rüyada hacca çıkıp da kavuşmadığını gören kimse, tüccar ise zarar eder; yolcu ise yolundan alıkonur; memur ise, görevinden atılır. Bu rüya, hastalık, keder ve sıkıntıya delâlet eder. Rüyada hacdan döndüğünü görmek; hastalık ve sıkıntılardan kurtulmaya işarettir. Yaya olarak hacca gittiğini gören kimse, rızık ve ganimet sahibi olur. Bazen de bu rüya rızık ve ganimete işaret eder. Hac yolculuğundan gelmek, şiddetten sonra kurtuluşa, hastalıktan sıhhata ve evvelce bulunduğu hale dönmesine işaret eder. Yiyeceğini kendisi ile beraber getirdiğini görse, takvaya işaret eder. Bazen de yiyeceğini getirmek, fakir için zenginliğe; borçlu için borcunu ödemeye işaret eder. Yalnız olarak hac yoluna çıktığını, insanların kendisine vedalaştıklarını görse, ölür. Haccetmek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 26,
+      "row": {
+        "text": "<s>[INST] rüyada hacerü’l-esved görmek ne anlama gelir [/INST] Rüyanızda Hacerü’l-Esved’i görmek, ona yüz sürmek; dünya ve ahiret işlerinizin yolunda olduğuna, dualarınızın Cenabı Hakk tarafından kabul gördüğüne, maneviyatınızın çok düzgün ve yerinde olduğuna, temiz kalbiniz ve gönül rahatlığınız bulunduğuna delalet eder. Ayrıca bkz: Hacı, Kabe’de İbrahim (A.S.)’in Makamı Görmek, Kabe  Bir başka rivayete göre de: Rüyada Hacerü’l Esved görmek, hacca işaret eder. Hacerü’l Esved’i söküp kendisi için alıkoyduğunu gören kimsenin bir bidab işlemede yalnızlığına işaret eder.  Rüyada Hacerü’l Esved’e el sürdüğünü gören kimse hacca gider. İnsanların Hacerü’l Esved’i kaybettiklerini ve yerini bulduklarını görse, o kimse kendisinin hidayette insanların da sapıklıkta olduklarını zanneder bir kimse olduğuna işaret eder. Hacer’ül-Esved</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 27,
+      "row": {
+        "text": "<s>[INST] rüyada hacerü’l esved görmek ne anlama gelir [/INST] Rüyada Kabe-i Muassama’nın bellek taşını görmek, haccetmeye, itikad düzgünlüğüne işarettir. Rüyada bu mübarek taşa istilam ettiğini (hürmetle el sürdüğünü yahut öptüğünü) görmek, adil bir yöneticiye bağlılık andı vermeye, salih bir kulun elinden tövbe etmeye, işe tam ve doğru yerden başlamaya delalet eder. Hacerü’l Esved</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 28,
+      "row": {
+        "text": "<s>[INST] rüyada hacı görmek ne anlama gelir [/INST] Rüyada hac ibadetini yerine getirmiş, yüzü nurlu, iş ve sözünde orta yolu tutan birini görmek, sevince delalet eder. Pazarı Rüyada hacı görmek, güzel söz işitmek demektir. Hacı olduğunu görende hiç beklemediği bir yerden kısmeti var demektir. Rüyasında hacı olan kimse, kısmet alacak demektir. Rüyasında hacı gören iyi bir söz işitir. Hacı olduğunu gören kişi de hiç ummadığı b Hacı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 29,
+      "row": {
+        "text": "<s>[INST] rüyada haciz görmek ne anlama gelir [/INST] Rüyada haciz görmek, yeni mala yorumlanır. Rüyada bir kişinin malının haczedildiğini görmek, evinize yeni eşyaların gireceğine işarettir.  / Senet Rüyada eşyalarınızın haczedildiği halde evden çıkarılmadığını görmek, satın aldığınız bazı eşyayı beğenmeyerek geri verileceğine delalet eder.  Bir başka rivayete göre de: Bir kimse rüyasında malının ve eşyalarınınn haczedilmesini görmesi, o kimsenin eline yeni mal ve yeni eşya geçmesine işaret eder. Haciz</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 30,
+      "row": {
+        "text": "<s>[INST] rüyada haç görmek ne anlama gelir [/INST] Rüyada haç görmek, gören kişi Müslüman ise kötü göz veya söz, dedikodudur. Hristiyan ise sıkıntılarını atacak demektir. Haç</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 31,
+      "row": {
+        "text": "<s>[INST] rüyada haç (salib, istavroz) görmek ne anlama gelir [/INST] Rüyada haç görmek; yalan ve koğuculuğa, zina isnadına, yalancı şahitliğe işarettir. Haç bazen dindar ve itibar sahibi kimseye, şahitsiz yapılan nikaha delalet eder. Haç (Salib, İstavroz)</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 32,
+      "row": {
+        "text": "<s>[INST] rüyada had cezası görmek ne anlama gelir [/INST] Bir kimse rüyada birisi veya kendisi hakkında had cezası talep edildiğini görse, borca ve borçlu olarak aranmasına işaret eder. Bazen de had cezası, kişinin haddini bilmesine, bekar için evlenmeye ve kötülüklerden korunmaya işaret eder. Had Cezası</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 33,
+      "row": {
+        "text": "<s>[INST] rüyada hademe görmek ne anlama gelir [/INST] Rüyasında bir iş yerinde hizmet eden veya bir okulda çalışan bir hademeyi görmek, ağır bir işle karşılaşır.  Okul, Anaokulu Rüyada kendisini hademe olarak görmek, toplumun ileri gelen ve onların ihtiyaçlarını gidermeye çalışan birisi olduğuna işaret eder. Çünkü peygamberimiz “Halkın ulusu, onların hizmetçisidir.” buyurmuştur. Hademe</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 34,
+      "row": {
+        "text": "<s>[INST] rüyada hadid suresi görmek ne anlama gelir [/INST] Ebu Bekir’e (R.A.) göre; Hadid Suresini rüyasında görüp okuyan veya dinleyen bir kimsenin dini kuvvetli, inanışı metin, ahlakı güzel olur. Sağlıklı yaşar fakat rızkını güçlükle temin eder.  Bir başka rivayete göre de: Rüyada Hadid Suresini veya ondan bir ayeti okuduğunu görmek, güzel ahlaka ve dince kuvvete işarettir. Hadid Suresi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 35,
+      "row": {
+        "text": "<s>[INST] rüyada hadid suresi görmek ne anlama gelir [/INST] Ebu Bekir’e (R.A.) göre; Hadid Suresini rüyasında görüp okuyan veya dinleyen bir kimsenin dini kuvvetli, inanışı metin, ahlakı güzel olur. Sağlıklı yaşar fakat rızkını güçlükle temin eder.  Bir başka rivayete göre de: Rüyada Hadid Suresini veya ondan bir ayeti okuduğunu görmek, güzel ahlaka ve dince kuvvete işarettir. Hadid Suresi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 36,
+      "row": {
+        "text": "<s>[INST] rüyada hadım görmek ne anlama gelir [/INST] Rüyada hadım edilmek; müjdeye, günahları terk etmeye, nefsin olumsuz telkinlerine itibar etmemeye delalet eder. Kişi kendisini hadım görürse, çaresiz kalacak demektir. Kısmetini başkası kapacak demektir. Ayrıca bkz: Katletmek, Kısır / Kısırlaştırmak Rüyada hadım görmek iyi değildir. Rüyada hadım edildiğinizi görmek, malınızın bir kısmının elinizden çıkacağına işarettir. Bir başkasının hadim edildiğini görmek, o kişi ile aranızın bozulacağına delalet eder. Bazılarına göre ise; rüyada kendisinin hadım edilmiş olduğunu görmek, ani bir karar alarak dünya işlerinden el çekip kendinizi dininize vakfederek ibadete koyulacağınıza delalet eder.  Rüyada başka birisinin hadım edildiğini veya bir hadım ağası görmek, evli iseniz eşinizden ayrılacağınıza; bekar iseniz şimdilik evlenmek niyetinde olmadığınıza delalet eder. Hadım</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 37,
+      "row": {
+        "text": "<s>[INST] rüyada hafaza melekleri görmek ne anlama gelir [/INST] Bakınız; Kiramen Katibin. Hafaza Melekleri Dikkat etmeniz gereken başka önemli bir husus ise rüyanızı bir bütün olarak görüp ona göre değerlendirmeye çalışmanız gerekmektedir. Rüyalar her zaman size ilerisi için bilgi vermek için olmayabilir, günlük hayatınızda üzerine düşündüğünüz konular ile ilgili rüyalar görmeniz doğaldır. Bazen ise rüyalar çok karmaşık ve anlam vermek bir o kadar güçtür. Bu durumlarda tabirlerden yararlanırken dikkat etmeniz gereken husus iyimser olarak yorumlamak olmalıdır. Rüyanızda ana nesne olarak Hafaza melekleri görmüş olabilirsiniz ama mutlaka diğer nesnelerin de rüya tabirlerine bakarak rüyanızı bir bütün olarak anlamlandırmaya çalışınız.</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 38,
+      "row": {
+        "text": "<s>[INST] rüyada hafız görmek ne anlama gelir [/INST] Rüyasında hafızın sesini duyan kimse, kederden sıyrılır ve huzur hisseder. Muhafızı, Kur’an Okumak Rüyada hafız görmek, muratla yorumlanır. Rüyada bir hafızı Kur’an okurken gören, çok yakında muradına erer. Hafızı camiye girerken görmek, dualarının kabul edileceğine işarettir. Rüyada hafızı eve çağırıp ona Kuran-ı Kerîm okutarak dinlediğinizi görmek, dünya ve ahiret işlerinizin yolunda olduğuna ve Allah’ın (C.C.) bütün dua kapılarını açtığına delalet eder. Bazılarına göre; rüyasında bir cami veya mescitte Kuran okuyan bir hafız görmek, keder ve sıkıntıdan kurtularak feraha çıkmaya işarettir. Kendini Kur’an-ı Kerîm’i ezberlemiş ve hafız olmuş gören, bütün günahlarından sıyrılır. Bir başka rivayete göre de: Rüyada Kuran-ı Kerim’i ezberleyen bir hafız görmek, çok iyi bir rüyadır. Rüyada hafız görmek, her türlü murada ermeye sıkıntı ve kederden kurtulmaya işaret eder. Kendisinin rüyada hafız olduğunu gören kimse, her türlü maksadına ereceği gibi, günahlarından tevbe edip, Allah’a karşı salih bir kul olacağına Kur’an-ı Kerim’i bilmiyorsa, Kur’an okumayı öğrenmeye tabir edilir. Rüyada hafızı gören bir insan, hafızın okuduğu Kur’an-ı Kerim’den herhangi bir sureyi okuduğunu görürse, Kur’an surelerindeki tabire de bakılmalıdır. Hafız</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 39,
+      "row": {
+        "text": "<s>[INST] rüyada hafiye görmek ne anlama gelir [/INST] Bakınız; Casus, Müzevir. Hafiye Dikkat etmeniz gereken başka önemli bir husus ise rüyanızı bir bütün olarak görüp ona göre değerlendirmeye çalışmanız gerekmektedir. Rüyalar her zaman size ilerisi için bilgi vermek için olmayabilir, günlük hayatınızda üzerine düşündüğünüz konular ile ilgili rüyalar görmeniz doğaldır. Bazen ise rüyalar çok karmaşık ve anlam vermek bir o kadar güçtür. Bu durumlarda tabirlerden yararlanırken dikkat etmeniz gereken husus iyimser olarak yorumlamak olmalıdır. Rüyanızda ana nesne olarak Hafiye görmüş olabilirsiniz ama mutlaka diğer nesnelerin de rüya tabirlerine bakarak rüyanızı bir bütün olarak anlamlandırmaya çalışınız.</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 40,
+      "row": {
+        "text": "<s>[INST] rüyada hafsa (r.a.) görmek ne anlama gelir [/INST] Bakınız; Peygamberimizin Hanımları Hafsa (R.A.)</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 41,
+      "row": {
+        "text": "<s>[INST] rüyada hafsa (r.a.) görmek ne anlama gelir [/INST] Hanımları  Rüyada peygamberimizin hanımlarından Hz.Ömer bin Hattab’ın kızı Hz.Hafza’yı görmek, güzel şeye işaret eder. Bekar bir kimsenin rüyada, peygamberimizin hanımlarını görmesi, saliha bir kadınla evlenmesine işaret eder. Yine bir kadının rüyasında Peygamberimizin hanımlarından birisini görmesi, salih bir kocaya işaret eder. Hafsa (R.A.)</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 42,
+      "row": {
+        "text": "<s>[INST] rüyada haham görmek ne anlama gelir [/INST]  Rüyada bir Musevi hahamı görmek; ticari işlerinizin yolunda olduğuna ve kâr payının çok artacağına, yeni bir ticari konu için bir müessese ile anlaşma yapacağınıza, yahut yeni bir mülk satın alarak rahat bir hayat yaşayacağınıza delalet eder. Haham</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 43,
+      "row": {
+        "text": "<s>[INST] rüyada hainlik görmek ne anlama gelir [/INST] Rüyada mal sahiplerinden görülen hainlik, onların fakir olmalarına ve zinaya işaret eder. Hainlik</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 44,
+      "row": {
+        "text": "<s>[INST] rüyada hain / hainlik görmek ne anlama gelir [/INST] Rüyada hain veya hainlik görmek; Allah’a (C.C.) ve insanlara verdiği sözü yerine getirmemeye, şahsiyetsizliğe işarettir. / Düşmanlık Rüyada zalim bir kimseye, onun şerrinden korktuğu için verdiği sözden tehlike geçince döndüğünü görmek, esenliğe çıkmaya delalet eder. Rüyada kişinin eşine ve malına yaptığı hainlik yapması, aile hukukunu hiçe saymaya ve malın zekatını vermemeye delalet eder. Hain / Hainlik</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 45,
+      "row": {
+        "text": "<s>[INST] rüyada hak ve hakikat görmek ne anlama gelir [/INST] Yolundan Çıkmak Rüyada Kur’an-ı Kerim’i dinleyip onu tasdik etmek, hükmünce amel işlemek ve kendine ulaşan şaşmaz doğruları benimsemek kurtuluş ve esenliğe; gerçeğe teslim olarak dünya ve ahiretini kurtarmaya işarettir. Hak ve hakikati hafife almak ve bunlardan yüz çevirmek, helak sebebi olan tavır, düşünce ve davranışlara delalet eder. Hak ve Hakikat</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 46,
+      "row": {
+        "text": "<s>[INST] rüyada hakaret görmek ne anlama gelir [/INST] Söz Rüyada kendisine hakaret etmek, rüyayı gören kişi güzel söz duyar; başkası hakaret ediyorsa iyilik yapar. Hakaret</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 47,
+      "row": {
+        "text": "<s>[INST] rüyada hakem görmek ne anlama gelir [/INST] Rüyasında hakemlik yaptığını gören kimse, duyguları yüzünden yanılabilir. Çok dikkatli olmalıdır ve hareketlerine dikkat etmelidir. Rüyada hakem görmek, rüya sahibinin dokunulmazlığına yorumlanmaktadır. İş hayatında saygınlık ve itibar alacağına tabir edilmektedir. Yöneticilik ve müdürlük mevkiinde sözü dinlenen, saygı gören ve çevresine takdir edilmektedir. Hayatınızda bu makama gelebilmek için büyük mücadele vereceğinize delalet edilmektedir. Kendi yaptığınız çalışmalar, hayır işleri ve projeler sayesinde çevrenizdeki herkesin takdirini toplayacaksınız. İş hayatınızda mücadele verirken sinirli ve kötü olaylar yaşayacağınız ve bu olaylar karşısında hırçınlaşacağınıza işarettir. Rüyada hakem görmek tabiri, sosyal çevrenizde arkadaşlarınız tarafında el üstünde tutulan ve sevilen bir kişi olacağı ifade edilmektedir.  Rüyada basketbol hakemliği yaptığını görmek, rüya sahibinin başarı yaşayacağına işarettir. Rüyayı gören kişi başarısızlıklardan kısa bir sürede kurtulup, iş ve eğitim hayatında kendisine hayırlı kapılar açılacağı şekilde yorumlanmaktadır. Gösterdiği azminden dolayı yaşayacağı başarılara daha kısa sürede ulaşacağına delalet edilmektedir. Yakaladığı yüksek mevkileri iş, eğitim ve sosyal çevresine yardımcı olacağı şekilde ifade edilmektedir. Aile içerisindeki kişilere saygılı olacağına ve bu durumdan dolayı tanıdığı kişiler tarafından övülmesi demektir. Aldığı başarılardan ve mevki değişikliklerinden dolayı yeni arkadaşlıklar kuracağı rivayet edilmektedir. Bu sayede rüyayı gören kişinin geniş bir çevre sahibi olacağı ifade edilmektedir. Rüyada basketbol hakemliği yapmak, mutlu bir evlilik yapacağı şeklinde de yorumlanmaktadır. Eğer rüya sahibi evli ise hayırlı bir evlat sahibi olacağına veya huzurlu bir evlilik sürdüreceğine de delalet edilmektedir.   Rüyada futbol hakemliği yaptığını görmek, rüya sahibinin rızkının ve kazancının artacağına işarettir. Ömrünün daha kolay ve daha rahat yaşayacağı şeklinde yorumlanmaktadır. Nasibinin ve kısmetinin bollaşacağına alamet edilmektedir. Rüya sahibi eğer çalışıyorsa iş hayatında çok iyi bir yere terfi alacağına veya maaşına zam yapılacağına delalet etmektedir. Sağlık sorunlarında ise hiçbir sıkıntı yaşamayacağı anlamındadır. Rüyada futbol hakemliği yapmak, hiç beklemediği zamanda bir yerden para geleceğine işarettir. Bu para miras veya şans oyunlarından yapılacağı kazanç şeklinde yorumlanmaktadır. Bu rüya her zaman iyiye yorumlanmamaktadır. Aile hayatında ve arkadaşlık çevresinde yardıma ihtiyaç duyacağı anlamına gelmektedir. Bu yardımı istediği kişilerden bir cevap alamayacağı şeklinde yorumlanmaktadır. İş hayatında maaşının artmasından dolayı iş arkadaşları ile sorunlar yaşayacağının göstergesidir. İş arkadaşlarından suçlamaları ve kendilerine aldığı iftiralardan dolayı şerefi ve haysiyet gibi duyguları zarar görecektir.  Rüyada milli takım hakemi olduğunu görmek, ömrünün kalan kısmında sağlık sorunu ile karşılaşmadan yaşayacağına işarettir. Rüya sahibi ağır bir sağlık sorunu yaşıyorsa kısa bir süre zarfında iyileşeceği anlamındadır. Yaşanılan bu hastalığın rüya sahibinde bir hasar bırakmadan geçecektir. Uzun zamandır görmediği yakın dostu veya ailesinin bir üyesi ile kavuşacağı şeklinde de yorumlanmaktadır. Rüyayı gören kişi aile toplantılarına katılarak müjdeli haberler alacağına delalet edilmektedir. Hayatında hayırlı insanlarla karşılaşacağına ve hayırlı kapılar açılacağı işaret edilmektedir. Rüyada milli takım hakemi olduğunu görmek ne demek: Hayırlı bir işe vesile olacağına veya birisine yardımda bulunacağına işarettir. Kendinden yardım isteyen kişilerin yardımlarına geri çevirmeyeceği şeklinde yorumlanmaktadır. Bu sayede birçok sıkıntıya çare olacaktır.  Kıyafet Rüyada bir maçta hakem olduğunu görmek, olaylar karşısında adaletli ve vicdanlı davranacağı anlamına gelmektedir. Yaptığı bu tutum karşısında kısmetinin ve rızkının artacağına işarettir. Hiç beklemediği şekilde mal ve para sahibi olacağına delalet edilmektedir. Sahip olacağı mal ve parası helal yollardan elde edilecektir. Rüya sahibi şu sıralar birikim yapıyorsa, birikimini kısa sürede çok artıracağı şeklinde yorumlanmaktadır. Rüya sahibi evli ise eşiyle mutlu bir ömür geçireceğine işaret edilmektedir. Rüyada bir maçta hakem olduğunu görmek ne demek: Rüya sahibi bekar ise eski sevgiliniz ile tekrar barışacağınız şeklinde de yorumlanmaktadır. Büyük kavgalar ve zor durumlar ile bölünen ilişkinizi kaldığınız yerden devam edeceğiniz anlamındadır. Hakem</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 48,
+      "row": {
+        "text": "<s>[INST] rüyada haki renk görmek ne anlama gelir [/INST] Rüyada haki renkli bir elbise giyinmiş olduğunu görmek, askerlikle yorumlanır. Rüya sahibi eğer genç ve erkekse, yakında askere alınacağına işarettir. Rüya sahibi yaşlı veya kadın ise, yakında askerden evladının terhis olarak veya izinli eve döneceğine delalet eder.  Rüyada çok yaşlı bir adamın haki bir elbise giydiğini görmesi, onun yakında öleceğine işarettir. Rüyada haki renk görmek, güzel anlamlar taşıyan bir rüyadır. Rüya sahibi dünyevi ve ahiret hayatını huzurlu ve güzel yaşayacağı anlamına gelmektedir. Arkadaşlıklarında ve ailesi arasında bir dargınlık bulunuyorsa en yakın zamanda barışacaktır. Maddi durumda sıkıntı çekiyorsa sıkıntılarını en yakın zamanda feraha dönüşeceği anlamındadır. Rüyayı gören kişi eğer çalışıyorsa iş hayatında makam veya yönetici sahibi olacağına işaret edilmektedir. Uzun ömürlü olacağına ve ibadetlerini daha düzenli yaşayacağı şeklinde yorumlanmaktadır. Verimli uğraşlar ve herkesin örnek alacağı işler ile meşgul olacağına delalet edilmektedir. Rüyada haki renk görmek tabiri, rüya sahibinin hayatında yaşadığı bütün olumsuzluklardan kurtularak hayatına renk geleceğine delalet etmektedir.  Rüyada haki renkli bir kıyafet giydiğini görmek, rüya sahibinin aşk hayatı üzerine yorumlanmaktadır. Rüya sahibi eğer bekar ise gönül eşini bulacağı anlamına gelmektedir. Bu kişi ile hayatını birleştirmeye ve mutlu bir evlilik süreceğine tabir edilmektedir. Hayatındaki bu kişi hayattan zevk alacak birisidir. Rüya sahibi eğer evli ise eşi ile dünya ve ahiret hayatının güzel geçeceğini işarettir. Eğer rüya sahibi bebek bekliyorsa hayırlı evlatlarının olacağı şeklinde yorumlanmaktadır. Kıyafet, Bebek Kıyafeti Rüyada haki renkli bir kıyafet giymek, aile hayatınızdaki insanlarla hak yolunda yapacağınız hayırlı işler sayesinde sevap işleyeceğinize işarettir. Yaptığınız hayırlı işlerinden dolayı çevrenizden güzel dualar alacağınıza delalet edilmektedir. Aile hayatınızda büyük sorunlar ile karşılaşmayacak şeklinde yorumlanmaktadır. Rüya sahibinin kendisinin ve aile üyelerinin çok ağır hastalıklarına yakalanmayarak huzurlu bir yaşam süreceği anlamındadır.  Rüyada haki renk elbise görmek, birden fazla anlama gelmektedir. İlk olarak rüya sahibinin hayırlı ve güzel işlerle meşgul olacağı anlamına gelmektedir. Toplum içerisinde üstüne düşen görevleri ve sorumlulukları eksiksiz bir şekilde yerine getireceğine işarettir. Bu görevleri yaparak çevresindeki tanıdığı tanımadığı herkesin işlerini kolaylaştırmaktadır.  Rüyada haki renk elbise görmek tabiri, hayata karşı bakış açınızın değişeceği anlamını taşımaktadır. Rüya sahibinin hayatının değerini anlayacağı ve hayatına sıkı sıkı tutunacağı anlamı taşımaktadır. Rüya sahibi eğer evli ve çocuğu varsa evladı için çok çalışacağı şeklinde yorumlanmaktadır. Son olarak ise kısmet anlamına gelmektedir. Rüyasında haki renk elbise giyen bekar kimse hayırlı bir evlilik geçireceğine işarettir.  Rüyada haki renk pantolon görmek, rüya sahibinin hayatında var olanların göze geleceğine işarettir. Rüyayı gören kişi eğer çalışıyorsa çalıştığı yerde akıllıca adımları sayesinde iyi mevkilere geleceği anlamındadır. İş hayatında sıkıntı çekmeden kariyer basamaklarına kolay bir şekilde çıkacağına yorumlanmaktadır. Sosyal çevresindeki yakın arkadaşlarına karşı her zaman hoşgörü ve anlayış içerisinde davranacağına işarettir. Rüya sahibinin adaletli davranışları sayesinde hayatında huzurlu olacağına delalettir. Eğer finansal durumda sıkıntı çeken kimsenin rüyada haki renk pantolon görmesi, para sıkıntısının kısa sürede çözüm bulacağın işarettir. Hayatının geri kalanında parasal konularda daha büyük sorunlar ile karşılaşmayacağına delalet etmektedir.  Rüyada haki yeşili giysi görmek tabiri, rüya sahibinin sağlık sorunlarının biteceğine işarettir. Hastalığını yavaş yavaş kendisine geleceğine anlamındadır. Rüya sahibinin her geçen gün hastalığından kurtulacağına ve iyileşerek umutlanacağına delalet edilmektedir. Hastalığından dolayı moral veren yakınları sayesinde huzurlu günler geçireceği şeklinde yorumlanmaktadır. Rüyayı gören kişinin iş ve eğitim hayatında yaşadığı zorlukların biteceğine delalet edilmektedir. Çalışma hayatında kimsenin hakkını yemeyerek alın teri ile geleceğine işarettir. İş hayatında vereceği ayağı yere sağlam basan girişimler sayesinde kısa sürede yükseleceği anlamındadır. Eğer ticaret işi yapıyorsa bu iş üzerinde ticaret yaşamında ilerleyeceğine işarettir. Rüyada haki yeşili giysi görmek tabiri, bir diğer anlamı da doğru kararlar alacağına işarettir. Doğru kararları vicdanı ile hareket edeceğine işarettir. Yaptığı bu doğru kararlar ile rızkının ve kısmetinin artacağı şeklinde yorumlanmaktadır. Haki Renk</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 49,
+      "row": {
+        "text": "<s>[INST] rüyada hakir görme görmek ne anlama gelir [/INST] Nasıl olursa olsun rüyada birini değersiz görmek, kötülüğe ve çirkinliğe işaret eder. Şayet rüyayı gören avam kimse ise, makam sahibi birinin rüyada, insanları alay ve tahkir eden kimselerin yaptıkları işi yaptığını görürse, hakaret ettiği kimsenin haline düşer.  ve Hakir, Ezik (Manevi) Rüyada mümin bir kişiyi hakir gören kimsenin dininde bozukluk ve noksanlık meydana gelir ve ümit ettiği bir kimseden ümidini keser. Gelecekte de zillete düşer. Tanımadığı genç birisinin kendisini tahkir ettiğini görse, düşmanına galip gelir. Tahkir eden tanımadığı bir ihtiyar ise o kimse fakir olur. Hakir Görme</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 50,
+      "row": {
+        "text": "<s>[INST] rüyada hakim görmek ne anlama gelir [/INST] Rüyada adaletle hükmeden bir kadı olduğunu görmek, iş ve mesleğinde insaf ve merhamet ölçülerini muhafaza etmeye; adil ve ehil insanları şahit olarak dinleyen hakim, insanı kurtuluşa götürecek gerçek doğrulara; ayak takımını ve alelade insanları şahit olarak dinleyen yargıç, rüşvet yiyen, zalim hakime; hakim bazen, gerçek adaletin tecelli edeceği hesap gününe delalet eder.  Rüyada hakim görmek, adaletle yorumlanır. Rüyada bir mahkeme salonunda bulunan bir hakimi çatık kaşlı ve sert olarak görmek, o yerde ihtikar yapıldığına ve esnafın hileli satışta bulunduğuna delalet eder. Hakimin güler yüzlü görülmesi, adaletle muamele edildiğine işarettir. Rüyada bir davası için hakim huzuruna çıktığını görmek, kimse dünyadaki zor işlerinin kolaylıkla yoluna gireceğine ve hayatını ömrünün sonuna kadar huzur içinde geçireceğine delalet eder.  Rüyada kendisinin bir mahkeme salonunda hakim olarak hüküm verdiğini görmek, devlet dairesinde bir türlü bitirilemeyen bir işinin iyi bir şekilde sonuçlanması demektir. Rüyada bir hakimle birlikte kol kola mahkemeden çıktığını görmek, akrabaları ile arasında bir anlaşmazlık varsa çözüleceğine; bir miras peşinde ise, o işin halledilecegine ve eline para geçeceğine delalet eder.  Bir başka rivayete göre de: Rüyada hakimi güzel bir vasıfta gören kimse arzu ettiğine işarettir. Bazen de hakim, karar veren, mühendis, arkadaş ve toplantıya işaret eder. Hakimi görmek, terzi ve iğneciye de işaret eder. Rüyada hakimin bunamış ve deli bir şahsın, şahit olarak dinlenmesi, o hakimin rüşvet kabul etmesine, kötü düşünceli ve bozuk kimselere yönelmesine işaret eder. Bazen de hakim, anne ve babaya, hocaya, öğretmene, insanın hak ve adaletten arzu ettiği şeye işaret eder.  Rüyada hakim yardımcılarını görmek, boş şeylere yardım eden bir kimseyi görmeye işaret eder. Bir kimse rüyada kendi evinde beyaz elbiseli hakim yardımcılarını görürse, bu rüya, sahibinin üzüntü ve kederden veya hastalıktan ya da korku ve şiddetten kurtulmasını müjdeler. Eger hakimin yardımcıları üzerinde siyah elbiseler bulunursa, bu rüya hastalığa, üzüntü ve kedere işaret eder. Bu tabir onların konuşmaları ve birbirleriyle anlaşmalarından da anlaşılır. Hakim</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 51,
+      "row": {
+        "text": "<s>[INST] rüyada hakirlik / horluk görmek ne anlama gelir [/INST] Rüyada insanlar nazarında hor ve hakir görünmek, Allah (C.C.) katından bir ihsanla yücelmeye ve itibar kazanmaya delalet eder. Hakirlik / Horluk</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 52,
+      "row": {
+        "text": "<s>[INST] rüyada hakka suresi görmek ne anlama gelir [/INST] Bu sureyi rüyasında okuyan veya okunduğunu işiten kimse, Allah (C.C.) tarafından birçok rızık ve nimete nail olur. Dinine hizmet eder. Sevap getirecek yolda yürür. Halka daima iyilikte bulunur. Sabırlı ve temkinli davranır.  Mustafa (SAV) Efendimizi Görmek Bir başka rivayete göre de: Rüyada bu sureyi veya ondan bir parçayı okuduğunu görmek, yüce Allah’a yakınlığa, günahlardan tövbeye ve Allah yolunda olmaya işarettir. Hakka Suresi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 53,
+      "row": {
+        "text": "<s>[INST] rüyada hakkak görmek ne anlama gelir [/INST] Rüyada taş, mermer, tahta vb. şeyler üzerine kazımak suretiyle şekil çizen, yazı yazan kimse, ilim ve irfandan nasibi olmayan kimselere sabırla öğüt veren, onların ıslahı için uğraşan bilgine delalet eder. Yazısı Hakkak</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 54,
+      "row": {
+        "text": "<s>[INST] rüyada haksızlık görmek ne anlama gelir [/INST]  Rüyada haksızlık görmek, rüya sahibinin büyük işler yapacağına delalet edilmektedir. Rüya sahibi bu işlerde azimli ve hırslı bir tutum sergileyecek şeklinde yorumlanmaktadır. İş hayatındaki bu akıllı adımları sonucunda makam ve mevkii sahibi olacağına delalet edilmektedir. İş hayatında düşlediği hedefleri ve istekleri kısa sürede gerçekleşeceği şeklinde de yorumlanmaktadır. İş arkadaşları tarafından takdir edileceğine ve gerçek sevgi göreceğine yorumlanmaktadır. Eğer rüya sahibi finansal anlamda sorunlar yaşıyorsa bu sıkıntılarını kısa sürede atlatacağına işarettir. Maddi sıkıntılarını bitirdikten sonra bir daha böyle sorunlarla karşılaşmayacağı şeklinde yorumlanmaktadır. Sıkıntı zamanlarında işlerinin rahatlayacağına ve huzura ereceğine delalet edilmektedir. Rüyada haksızlık görmek ne demek: Rüya sahibinin sadece dünyevi hayatına yorumlanmaktadır. Rüyayı gören kişinin ahiret hayatının huzurlu geçeceği şeklinde de yorumlanmaktadır.  Rüyada birine haksızlık yapıldığını görmek, rüya sahibinin çözümlenemeyen iş ve ilişki konularının kısa sürede çözümleneceği şeklinde yorumlanmaktadır. İş hayatında önüne çıkan fırsatlardan büyük kazanç getirecek şekilde kullanım sağlanmaktadır. İş hayatınızda askıda kalmış bir konunun tekrardan önünüze geleceğine işarettir. Rüyayı gören kişi askıda kalan bu konuyu kendi lehine çözümleneceğine delalet edilmektedir. Rüyada birine haksızlık yapılması, bu rüyanın bir diğer anlamı da yeni kurulacak arkadaşlıklara işarettir. Bu arkadaşlıklardan başınıza açacağa bela veya hata yüzünden uzun zamanlı sıkıntılarla uğraşacaksınız.  Rüyada haksızlığa uğradığını görmek, tam aksini ifade edilecek şekilde yorumlanmaktadır. Rüyayı gören kişinin hayatında güzel gelişmeler olacağına ve huzurlu bir yaşam süreceğine işarettir. Rüya sahibi uzun yıllardan beridir iş arıyorsa kendisine hayırlı kapıların açılacağı şeklinde yorumlanmaktadır. Rüya sahibi kendisine haksızlık yapan insanlara karşı galip gelir ve endişelerinden en yakın zamanda kurtulacağı anlamına gelmektedir. Birikim yapıyorsa kar oranının bu zamanda yapacağı akıllı adımlar doğrultusunda iki katına çıkacağı anlamındadır. Rüyada haksızlığa uğramak, rüya sahibinin güçlü dostluklar yaşadığını da simgelemektedir. Arkadaşları sayesinde yaşadığı üzücü olaylara karşı kendini yıpratmayacağı anlamındadır. Sosyal çevresindeki yakın arkadaşlıkları ve aile üyeleri ile birlikte iş hayatında yaşadığı stresi söküp atacağına delalettir.  Rüyada haksızlık yapan birini dövmek, yaşanılan sıkıntılardan kısa sürede çözüme kavuşulacağına işarettir. Rüya sahibinin yaşadığı haksızlıklara, iftiralara ve yalanlara karşı endişelerinin kısa sürede son bulacağı anlamındadır. Rüyayı gören kişi iş ve eğitim hayatında büyük başarılar edeceği şeklinde yorumlanmaktadır. İş ve eğitim hayatında elde ettiği bu başarılar sonucunda büyük kazançlar elde edecektir. Rüya sahibi elde ettiği bu başarılar sayesinde insanlar arasında kendinden oldukça söz ettirecektir. Kısa bir süreliğine de olsa şöhret olacağına delalet edilmektedir. Bunun sonucunda rüya sahibi büyük mutluluklar yaşayacağına rivayet edilmektedir. Rüyada haksızlık yapan birini dövmek tabiri, bu rüyanın bir diğer anlamı ise amaçlarına kısa yoldan ulaşabileceği şeklinde yorumlanmaktadır. Aşk hayatında şansızlıklar yaşasa da uzun süre bu şansızlıklar ile uğraşmayacağı şeklinde yorumlanmaktadır. Karşısındaki kişi ile mutlu ve huzurlu bir yaşam süreceğine delalet edilmektedir. Rüya sahibi eğer bekar ise karşısına adaletli ve merhametli birisinin çıkacağı şeklinde yorumlanmaktadır.  Rüyada haksızlık karşısında ağlamak, genellikle rüya sahibinin iş hayatını kapsamaktadır. Rüya sahibinin yapacağı yatırımları, iş arkadaşlarını ve ekonomik durumundan söz edilmektedir. Rüya sahibinin iş arkadaşları arasında küçük çaplı tartışmalar yaşayacağı anlamına gelmektedir. Rüyada haksızlık karşısında ağladığını görmek, ekonomik yönden rahata ereceğine işarettir. Kendi işinde söz sahibi olacağına adım atacağına ve bunun sonunda rahat edeceği şeklinde yorumlanmaktadır. Eğer birisi ile ortaklık yapacaksa, uzun yıllar bu ortaklığı sürdüreceğine işarettir. Rüya sahibi finansal yönden hızlı bir birikim yaparak huzurlu bir ömür geçirecektir. Rüya sahibinin hayatında kendisine zarar veren insanlara karşı galip geleceğine delalet edilmektedir.  Haksızlık</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 55,
+      "row": {
+        "text": "<s>[INST] rüyada haksızlık etmek görmek ne anlama gelir [/INST] Bakınız; Gadretmek Rüyada birine haksızlık etmek, zor duruma düşmeye ve maddi sıkıntı çekmeye delalet eder. Bu zor günleri dostlarınızın yardımıyla atlatacağınıza da bir işarettir. Haksızlık Etmek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 56,
+      "row": {
+        "text": "<s>[INST] rüyada hal görmek ne anlama gelir [/INST] Rüyada sebze meyve hali görmek meyveye göre huzura ve bolluğa; bazen ise gördüğünüz sebzelerin veya meyvelerin o sene içerisinde çok az yetişmesine ve zor bir dönem geçirmeye, pahalılık içinde yaşamaya delalet eder. Rüyada sebze meyve haline gitmek ise ticaretteki başarıya yorumlanır. Bkz: Rüyada Sebzeli Yer Görmek, Rüyada Meyve Görmek Hal</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 57,
+      "row": {
+        "text": "<s>[INST] rüyada hala görmek ne anlama gelir [/INST] Rüyada hala görmek, elde edeceği nimete işaret eder. Baba ve amcaya yahut elde edilecek dünyalığa delalet eder. Rüyada hala ile dertleştiğini görmek, derdinize derman bulacak bir büyüğün hayatınıza gireceğine işaret eder. Alakalı rüyalara da bkz: Ölüm Görmek, Azarlanmak, Gülmek, Şefkat Rüyada ölmüş halanızı görmek, sıkıntılarınızdan kurtulmak için çok fazla beklemeyeceğinize delalet eder Rüyada halanın öldüğünü görmek, bir arkadaşınızın sizden sakladığı bir şeyi öğrenip ona karşı soğuyacağınıza delalettir. Rüyada halanın kızması azarlaması, bir yanlışınız yüzünden çok üzüleceğinize ve hasta olacağınıza işaret eder. Rüyada halanın şefkat gösterdiğini görmek, baba tarafından bir yakınınız sayesinde güzel bir işe yerleşeceğiniz şeklinde yorumlanır. Rüyada halayı iyi halde ve gülerken görmek, farketmeden bir harama girerek yüklü miktarda para elde edeceğinize işaret eder. Rüyada halayı bedbaht bir halde, ağlarken görmek, birisiyle tanışacağınıza ama ne yazık ki bundan bir şekilde zarar göreceğinize delalet eder. Rüyada halaya sarılmak, hevesle bir işe başlayacağınıza ve hevesiniz doğrultusunda çok çalışıp başarı elde edeceğinize delalet eder. Rüyada halanın çocuk sahibi olduğunu görmek, işinizde bir değişikliğe gideceğinize, ya bulunduğunuz yerde ya da yeni bir yerde işe başlayacağınıza delalet eder. Hala</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 58,
+      "row": {
+        "text": "<s>[INST] rüyada halat görmek ne anlama gelir [/INST] Rüyada halat görmek, selamet ve kurtuluş ile tabir olunur. Rüyasında sağlam ve tomar halinde halat görmek, vücut sağlığına ve uzun bir ömre delalet eder. Halat görmek bazı yorumculara göre, uzun bir yolculuk ile de tabir edilmektedir.  Alakalı rüyalara da bkz: Gemi Halatı, İp Sarmak / Yumak Yapmak, Bağcık Bir başka rivayete göre de: Halat görmek, umumiyetle Kur’an ve dinle tabir edilir. Rüyada kuvvetli bir halata sarıldığını gören kimse, Kur’an-ı Kerim’e yapışır, Allah’a karşı verdiği sözünde durur. Halatlı bir rüya, güzel bir rüyadır. Elindeki halatın koptuğunu gören insan makam sahibi ise makamını kaybeder, dindarlığı zayıflar. Halat</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 59,
+      "row": {
+        "text": "<s>[INST] rüyada halayık görmek ne anlama gelir [/INST] Bakınız; Cariye Halayık</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 60,
+      "row": {
+        "text": "<s>[INST] rüyada hale görmek ne anlama gelir [/INST] Rüyada hale görmek ay ve güneşin çevresindeki ışıklı halkayı görmek, devlet başkanı yahut başbakanın karşı karşıya geleceği çetinlik ve musibetlere işaret eder. Rüyada güneş etrafındaki ışıklı halkayı görmek insanı çepeçevre saran borç ve sıkıntılara delalettir. Rüyada ayın çevresinde ışıklı halkayı görmek ise parıltılı ve geçici mutluluklara delalet eder. Bkz: Rüyada Güneş Görmek, Rüyada Ay Görmek Hale</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 61,
+      "row": {
+        "text": "<s>[INST] rüyada halhal görmek ne anlama gelir [/INST] Bakınız; Ayak Bileziği. Rüyada halhal görmek, rüyayı gören kişinin üzüleceği bir olay yaşayacağına delalet eder. Bu olay arkadaşlarıyla ilgili olabilir. Rüyada halhal takmak, rüya sahibinin arkasından konuşan birilerinin olduğuna ve bu isimlerin sürekli olarak dedikodusunu yaptığına işaret eder. Rüyada altın halhal görmek, rüya sahibinin iş yaşamında çok başarılı olduğuna ve adından bahsettirecek nitelikte büyük adımlar atıp çok büyük paralar kazanacağına delalettir. Rüyada halhal almak, böyle bir rüya gördüyseniz, kendiniz için hayırlı olan bir haber alacağınıza ve bu haberle birlikte hayatınızın olumlu anlamda değişeceğine işaret eder.  Halhal</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 62,
+      "row": {
+        "text": "<s>[INST] rüyada halhal (ayak bileziği) görmek ne anlama gelir [/INST] Rüyada ayağının altında halhal olduğunu gören, sıkıntıya ve korkuya düşer. Gümüşten halhal takmış olduğunu gören, yeni dostlar edinir.  Alakalı rüyalara da bkz: Yüzük, Kolye Bir rivayete göre: Rüyada halhal görmek tabiri, rüyayı gören kişi istemediği bir işe girer. Başka bir rivayete göre, ceza görür. Gördüğü halhalın renkli ve nakışlı olması, hırsızlığa ve bundan dolayı ceza göreceğine işarettir.  Rüyada bir kadının ayaklarında hangi madenden olursa olsun, halhal görmesi, kocasına ait olarak yorumlanır. Eğer rüyayı gören kadın evli değilse, halk arasında itibarlı olması ile yorumlanır. Genellikle rüyada halhal görmek iyi değildir. Halhal (Ayak Bileziği)</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 63,
+      "row": {
+        "text": "<s>[INST] rüyada halı görmek ne anlama gelir [/INST]  Rüyada halı görmek, genel anlamı ile rüya sahibinin hayatındaki zenginliğe, bolluğa, mala, mülke, huzura ve varlıklı güvenilir dosta işarettir. Bir insanın rüyasında halı görmesi berekettir. Rüya sahibi çalışıyorsa maaşına zam geleceğine veya avans alacağı anlamına gelmektedir. Aile hayatında sofrası bereketlenmektedir. Rüyayı gören kişi ailesine karşı hayırlı bir evlat olacağı şeklinde yorumlanmaktadır.  Rüyada halı yıkadığını görmek, helal yollarla bereketli dünya nimetleri elde edeceğine işarettir. Rüya sahibi eğer çalışmıyorsa akrabası yardımı ile bir yerde çalışacağı anlamındadır. Bu işinde önünde birden fazla fırsatlar çıkacağına delalet edilmektedir. Ayrıca rüyada halı yıkamak, zengin akrabaya ve beklenmedik bir yerden para sahibi olacağınıza işarettir. Bu para miras yolu ile rüya sahibine geçeceği delalet edilmektedir. Bekar bir kimsenin rüyasında halı yıkadığını görmek onun için mutlu bir evliliği ifade etmektedir. Evli bir kimse ise bu rüyayı görürse eşinin evine bağlılığının bu zamanlarda artacağına yorumlanmaktadır.  Rüyada halı silkelemek görmek, rüya sahibinin yaşayacağı zenginliğe, huzura ve bolluğa işarettir. Yaşadığı sıkıntılı ve zor günlerden kısa sürede kurtulacağı anlamına gelmektedir. Bu zor günlerden kurtulurken hayatında ve kendisinde hiçbir hasar kalmadan yoluna devam edeceği şeklinde yorumlanmaktadır. Maddi durumlarda yaşadığı sorunları kısa sürede çözüme kavuşacağına işarettir. Rüyada halı silkelemek, rüya sahibinin geçimini büyük bir rahatlıkla yapacağına delalet edilmektedir. Rüya sahibi eğer evli ise eşi ile yaşadığı sorunlardan bir çırpıda kurtulacağını ifade etmektedir. Evliliğini mutluluk içinde uzun bir ömür süreceğine delalet edilmektedir. Eğer rüya sahibi bekar ise varlıklı birisi ile tanışacağı şeklinde yorumlanmaktadır. Rüyada halı silkelemek görmek, rüya sahibinin hayatında rızkının, bereketinin ve parasının çok olacağına işarettir.  Rüyada halı sildiğini görmek, geçmişinde yaşadığı kötü olaylardan kurtulacağına işaret edilmektedir. Kendisine zor ve kötü olaylar yaşatan insanlara karşı galip geleceği anlamındadır. Rüyada halı silmek, rızkın bollaşacağına işarettir. Yaptığı hayırlı işler doğrultusunda çevresine karşı her zaman takdir toplayacağı şeklinde yorumlanmaktadır. Bu hayırlı işleri ne kadar çok yaparsa rızkının daha da çok bollaşacağı anlamındadır.  Rüyada halı satmak görmek, yakın bir arkadaşınızdan sorun yaşayacağınız anlamına gelmektedir. Çünkü halı bazı rüya yorumlarına göre candan arkadaşınız olarak gösterilmektedir. Candan arkadaşınızın size karşı iftira atacağına delalet edilmektedir. Rüyada halı sattığını görmek, psikolojik sağlık sorunları yaşayacağınızın göstergesidir. Rüya sahibinin yaptığı birikimden veya kazancından istediği ölçüde kâr edememesi anlamına da gelmektedir.  Rüyada halı aldığını görmek, mutluluğu ifade etmektedir. Rüya sahibinin rahat geçimi sürdüreceği anlamındadır. Rüyada halı aldığını görmek, zenginlik belirtisidir. Kısa zamanda ticaret işlerinden yüklü miktarda kazanç elde edeceği anlamındadır. Birisi ile ortaklıkta bulunacaksa bu ortaklığın kendilerine hayırlı kapılar açacağı anlamındadır. Rüyada desenli halı almak, yeni kuracağı zengin arkadaşlıklara da işarettir. Eğer bu halı aldığınız kişi tanıdığınız biri ise o kişi ile uzun bir arkadaşlık kuracağınız anlamındadır. Kısacası rüyayı gören kişi zenginliğe ve bolluğa kavuşacağının habercisidir. Rüyayı gören kişi sadece dünya üzerinde zenginliğe kavuşmamaktadır. Aynı zamanda rüya sahibinin ahiret hayatında da makamı artacaktır. Gerçek gönül zenginliğine kavuşacağına delalet edilmektedir. Son olarak rüya sahibi, ihtiyaç sahiplerine gönülden yardım edeceği şeklinde de yorumlanmaktadır.  Rüyada halının kirlendiğini görmek, rüya sahibinin sıkıntılar ve zor günler geçireceğine işarettir. Finansal durumda oldukça fakirleşeceğine işarettir. Rüya sahibinin malı veya mülkü varsa şu sıralar elinden çıkaracağına delalet etmektedir. İş hayatında ise iş arkadaşları ile ciddi sorunlar yaşayacağının göstergesidir. Hayatında düşmanlarına karşı galip gelemeyeceği şeklinde yorumlanmaktadır. Rüyada halının kirlenmesi, kirin büyüklüğüne göre sıkıntılarının zorluğunu belirlenmektedir.  Halı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 64,
+      "row": {
+        "text": "<s>[INST] rüyada haliç görmek ne anlama gelir [/INST] Rüyada denizin kara içerisine uzanan kısmını görmek, orta halli kimseye; akarsuyun denize ulaştığı yeri görmek, niyet ve maksadın gerçekleşmesine ve bunların semeresini görmeye delalet eder. Alakalı rüyalara da bkz: Körfez Rüyada haliç görmek, akraba ve yardımcılarına işaret eder. Haliç, orta halli hayırlı bir kimseye işarettir. Bazen de, orta yola işaret eder. Haliç</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 65,
+      "row": {
+        "text": "<s>[INST] rüyada halife görmek ne anlama gelir [/INST] Rüyada ahlakı ve ilmi yeterliliğiyle gerçek anlamda bir halife ya da bu özellikleri taşıyan bir halife olduğunu görmek, durumunun güzelliğine ve sonunun iyi olmasına yahut ehil ise hilafet ve imamete işarettir. Halife, tam anlamıyla olgun insan-ı kamile, ilim ve irfan ehline, peygamber varisi olan zatlara, Allahu Teala’nın veli kullarına delalettir. Halife şuurlu müslüman olmaya, ümmet bilincine ve müslümanların birlik ve dirliğine delalet eder. Alakalı rüyalara da bkz: Dört Büyük Halife Rüyanızda halifelerden birini güler yüzlü, yumuşak bakışlı ve size tatlı bir sözle söz söylediğini görmek; dünya ve âhirette hayır ve berekete, izzet ve şerefe nail olacağınıza, rüyanızda halifelerden birisinin size şeriata uygun bir işi emreder görmeniz; sizin şeref ve kıymetinizin yüksek, dünya ve âhiretteki yerinizin de gayet üstün olduğuna delalet eder. Rüyanızda halifenin size bir mektup yazdığını görmek; bir devlet büyüğü tarafından iyilik ve menfaat göreceğinize, rüyanızda halifenin size yeni bir elbise giydirdiğini veya sizi kucakladığını ya da sizi bir ata bindirdiğini veyahut da sizi dünyaya ait bir hediye ile taltif ettiğini görmeniz; sizin üstün bir şerefe ve şana erişeceğinize ve güven içinde olacağınıza işaret eder. Rüyanızda halifenin size sert bir dille bağırdığını görmek, dünya işlerinizde üzüntü verecek bir işle karşılaşacağınıza; rüyanızda halifenin size sert baktığını ve suratının asık olduğunu görmeniz, sizin dini yönden noksan olduğunuza ve hata işlediğinize işaret şeklinde tabir olunur. Bir kimse rüyada lâyıkı veçhile bir halife görse, yahut kendisinin halife olduğunu görse, halinin güzelliğine ve sonunun hayır olacağına delâlet eder. Halife, din işlerinde ve Resulullah (S.A.V.)’ın şeriatının hükmünü icra eden kimsedir. Bundan dolayı halifede görülen noksanlık ve aşırdık yürüttüğü işine aittir. Halifeyi görmek, kötü şeyleri aşikâreye çıkarmaya ve yüksek dereceye delâlet eder. Rüyada halifeyi gören kimse bir şey ile vaad edilmişse o vaad yerine getirilir ve ümit ettiği şeye nail olur. Ehil olmadığı halde halka emrettiğini gören kimse, emri altında bulunan kimselerin hallerinin bozukluğuna ve halktan ayrılarak zulmetmelerine delâlet eder. Zulmeden kişinin rüyada ölümü, şehir halkının emniyette olmasına delâlet eder. Halife, hâkim, imam, vali ve âlime göre, başkasına karşı yüksek tarafları bulunan herkese delâlet eder. Ana ve babaya da delâlet eder. Bazen de halife görmek; sünnete uymaya, din ve takvaya, halktan ayrılıp itikâf etmeye, sözde doğruluğa, nafile ibadete, zikir ve tövbeye, günahtan tamamen ayrılarak iç temizliğine, kâfirin Müslüman oluşmasına, iyilikle emredip kötülükten sakındırmaya delâlet eder. Rüyada halifenin öldüğünü, yahut süs ve bezeğinin değiştiğini görmek, halifenin delâlet ettiği şeyde noksanlığına delâlet eder. Rüyada kendisinin halife olduğunu gören kimse, mülke ehilse mülke nail olur, hüküm vermeye ehilse hâkim, yahut imam ve vali olur. Eğer ehil ve lâyık değilse hapis veya hasta olur yahut uzak bir yere yolculuk yapar. Kendi hakkına ya da Allah’ın (C.C.) hakkına muhalefet eder. Bazan da o kimse gençliğinde zayıf, ihtiyarlığında kuvvetli olur. Allah tarafından yeryüzünde halife olarak tayin edildiğini gören kimse, valiliğe ehilse vali olur. Eğer ehil değilse, o yerde büyük bir fitne meydana çıkar ve kan dökenler helak olurlar. İlim ve takva sahibi olanlar bundan kurtulur. Rüyada kendisinin halife veya imam olduğunu gören kimse izzet ve şerefe yahut ehilse hilâfet ve imamete nail olur. Halifeye döndüğünü görse, bu rüyada hayır yoktur. Ancak halifeliğe lâyıksa bu müstesnadır. Eğer lâyık değilse zillete ve alçaklığa düşer ve işleri dağılır, perişan olur. Hizmetinde bulunan kimse kendi üzerine faziletli olur ve kendisine erişen keder ve musibetten düşmanları sevinirler. Halife</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 66,
+      "row": {
+        "text": "<s>[INST] rüyada halim görmek ne anlama gelir [/INST] Bakınız; Yumuşak Huylu. Halim</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 67,
+      "row": {
+        "text": "<s>[INST] rüyada halka görmek ne anlama gelir [/INST] Rüyada altın halka görmek içinde şer ve kötülük olan söze işarettir. Gümüş halka müjdeli habere delalettir. Rüyada bir halkaya tutunmak İslam dininin kurtarıcı emirlerine ve hükümlerine tutunmaya işaret eder. Rüyada halka şeklinde oturulduğunu ve kendisinin de bu halkada bulunduğunu görmek rahmete ve zikrullaha yorulur. Rüyada kapı halkası görmek bekçi, elçi, uyarıcı ya da kapıcıya; altın ve gümüşten kapı halkası, şeref ve yüceliğe; testi, ibrik, bardak vb. şeylerin kulpu kişinin hanımına delalettir. Bekar için evlenmeye, evli için sebebe sarılarak işte muvaffak olmaya yahut dağınık işleri toparlamaya delalet eder. Rüyada görülen altın veya gümüş halka, kötü bir söz yahut ferah verici bir haberdir. Rüyada görülen halka islam dinidir. Bundan dolayı bir halka tuttuğunu gören kimse İslam dinine sarılır. Rüyada kapı üzerindeki halkayı görmek, kapıcıya yahut bekçiye; altın veya gümüşten olursa, izzet ve yüksekliğe veya mülke işaret eder. Rüyada kendi kapısının iki halkası oldugunu gören kimsenin iki kişiye borcu vardir. Rüyada kapısının halkasını çıkardığını gören kimse haram yola girer. Suçlunun Boynuna Vurulan Demir Halka Görmek Rüyada Halka Görmek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 68,
+      "row": {
+        "text": "<s>[INST] rüyada hallaç yayı görmek ne anlama gelir [/INST] Rüyada hallaç yayını görmek, kötü davranan bir kadına işaret eder. Hallaç yayının kirişi, yaygaracı bir adamdır. Alakalı rüyalara da bkz: Hallaçlık, Hallaç Rüyada hallacın yayını görmek, münafık davranan bir şahsa işarettir. Hallaç Yayı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 69,
+      "row": {
+        "text": "<s>[INST] rüyada hallaç görmek ne anlama gelir [/INST] Rüyada pamuk yahut yünü, bir alet yardımıyla atarak kabartan kimseyi görmek; çetrefil ve dağınık işleri toparlayan, insanlara faydası olan, faydalı olanla faydasız olanı birbirinden ayıran kimseye delalet eder. Alakalı rüyalara da bkz: Hallaç Yayı, Hallaçlık Rüyada hallaç görmek, kuvvetli ve suratı asık ve herkesin işini gören bir kişi olarak tabir edilir. Hallaç yayı ayrılık ile, tokmağı kahramanlıkla yorumlanır. Bir başka rivayete göre de: Rüyada hallacı görmek, gözü açık bir kimseye yahut nesli çok olan birisine işaret eder. Bir kimse rüyada pamuk veya yün attığını görse, o kimse bir düşmanlık ve münazaraya düşer. Hallaçlığı güzel beceremediğini görse, düşmanı onu yener. Hallaç</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 70,
+      "row": {
+        "text": "<s>[INST] rüyada halter görmek ne anlama gelir [/INST] Rüyanızda bir idman kulübünde halter çektiğinizi görmek, kısa bir hastalıktan sonra doktorunuzun size istirahat etmenizi tavsiye edeceğine, bir müddet evinizde kalıp dinlenmek zorunda kalacağınıza delalet eder. Alakalı rüyalara da bkz: Spor Halter</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 71,
+      "row": {
+        "text": "<s>[INST] rüyada ham meyve görmek ne anlama gelir [/INST] Rüyada ham meyve görmek, kişinin hatalı tutumu yüzünden pişman olacağına işarettir. Meyve Görmek Ham Meyve</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 72,
+      "row": {
+        "text": "<s>[INST] rüyada hamak görmek ne anlama gelir [/INST] Rüyada hamak görmek, gelip geçici iş olarak yorumlanır. Rüyanızda bahçenize veya kırda bir ağaca bir hamak kurarak orada uzandığını veya bir gemi hamağında istirahat ettiğinizi görmek, çok yakın zamanda bir deniz yolculuğuna çıkacağınıza işarettir. Hamak</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 73,
+      "row": {
+        "text": "<s>[INST] rüyada hamal görmek ne anlama gelir [/INST] Rüyada hamal görmek; sıkıntı ve kedere, eziyetlere katlanmaya, yumuşak huylu sabırlı kimselere delalet eder. Kişinin sorumluluklarından kurtulacağına işaret eder. Sabır, çalışma, sebat sayesinde kişi istediğini elde eder. Rüyada hamal görmek ne demek, hatırı sayılır bir kişi olarak tabir olunur. Hamal olup yükünün hafif olduğunu görmek, hayır ve menfaate; yükünün ağır olması, günahlarının çokluğuna işarettir. Rüyada başkası için parası ile yük taşıdığını görmek, kedere; para almadan yük taşıdığını görmek, halka yardıma delalet eder.  Bir başka rivayete göre de: Rüyada ağır bir yük yüklendiğini gören kimse, yükün ağırlığı nisbetinde üzüntü ve kedere girer. Rüyada hamal görmek, halkın eziyetine tahammül eden ve halkın ihtiyaç gören kimseye işaret eder. Hamal sıkıntı ve keder ve yumuşak huylu bir kimsedir. Hamal</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 74,
+      "row": {
+        "text": "<s>[INST] rüyada hamam görmek ne anlama gelir [/INST] Rüyada hamam görmek; eş ve kadına, borca, sıkıntı ve kedere, piyasanın durgunluğuna, şefkat ve iyilik timsali dosta veya alacağa; hamam yaptırmak, kötü bir iş yapmaya; hamam görmek, gam ve kedere işarettir. Rüyada hamamda ılık su ile yıkanmak, sevinç ve sürura, borcunu ödemeye ve günahlardan arınmaya; çok sıcak su ile yıkanmak üzüntüye; soğuk su ile yıkanmak yahut soğuk su içmek hastalıktan kurtulmaya işarettir. Rüyada hamamın kapı ve pencerelerini açmak, üzüntü ve kederin gitmesine; hamama elbise ile girmek keder, sıkıntı ve ıstıraba; üzerinde elbise olduğu halde yıkanmak, kötü ahlaklı bir kadınla evlenerek çok acı çekmeye yahut aşırı derecede borçlanmaya işarettir. Rüyada hamamda kadın erkek birlikte yıkanmak, musibet ve fenalığa; hamamı mesken edinmek, kötülüğü meslek edinmeye işarettir. Hamam bazen eş, kız kardeş yahut kadın cihetinden gelecek meşakkate delalettir. Rüyada hamamcı olduğunu görmek, güzel bir kadınla evlenmeye; kadının hamamcı olduğunu görmesi, emrindekilerin ıslahı ile uğraşmaya; hamamcıyı görmek, üzüntü ve sıkıntının gitmesine ve borcunu ödemeye delalet eder. Rüyada bir hamam gördüyseniz, bu rüya sağlık için bulunduğunuz ortam ve kişilerden bir süreliğine uzaklaşacağınız anlamına gelir. Yeni arkadaşlıklar olarak da yorumlanabilir. Hamam sıcak, sabunlu ve buharlı ise, sıkıntı ve büyük derttir. Sabunsuz, buharsız, temiz suyu akan hamam ise sıkıntıların geçeceğine işaret eder. Rüyada hamam yapmak veya tamir etmek, hayır değildir. Bir hamamın yıkıldığını görmek ise hayırlıdır. Rüyada hamam görmek, kedere; orada yıkanmak, su ılık ise ferah ve sevince; sıcak ise, keder ve hüzne delalet eder. İbn-i Kesir’e göre; rüyada hamam otu sürünüp temizlendiğini ve vücudunu gusül eylediğini gören, korkuyor ise emniyete erer. Kederli ise ferahlanır; zayıf ise ve hasta ise iyi olur; borçlu ise borcunu öder; zengin ise malı artar. Hamamda sıcak su içtiğini gören ağır bir hastalığa tutulur. Mahallesinde hamam olduğunu görmek, o civarda bir fahişe kadının bulunduğuna işarettir. Cafer-i Sadık (R.A.)’a göre; hamam rüyası altı şekilde yorumlanır: Karı-koca, gam ve keder, borç, tatil yani işlerinde durgunluk ve bozukluk, iyi bir dost, alacak. Bir rivayete göre hamam görmek, hamamda hizmet eden kadın veya evin en büyük kadını ile tabir olunur. Rüyasında hamamcı olduğunu gören, güzel bir kadınla evlenir; bir kadın hamamcı olduğunu görse, evinin idaresini yoluna koyacağına delildir. İbn-i Kesir’e göre; bir hamam yaptığını gören, evlenir. Hamama girdiğini gören, hamamın sıcaklığı derecesinde, kedere ve sıkıntıya uğrar. Hamamda bir yerden bir yere gittiğini gören halden hale girer, iyi ve temiz bir yerden kötü ve pis bir yere gelmek, iyi halden kötü hale ve aksi de bunun aksine işarettir. Hamamda yalnız kaldığını gören, kadınların diline düşer.  Rüyada elbisesi ile hamamda bulunduğunu gören annesi, kız kardeşi veya yakını bir kadın yüzünden sıkıntıya düşer. Kadınlar hamamına girdiğini gören, haram işler. Hamamın kapısına kadar gelip içeriye girmediğini gören, bir adamla kavga eder. Hamamda bir şeyinin çalındığını gören, hükümete karşı davacı olur ve dava açar. Hamama girip, orada kalmaktan zarar görecek kadar soğuk olduğunu görmekte hayır yoktur.  Rüyada hamam temiz, sıcak – soğuk suyu bol ve sıcaklığı orta derecede olup kendisi de temiz olursa, böyle bir rüya daima iyidir. Hamama girip her tarafı pis görmek, kederin fazlalığına; hamamda kadınların avret yerlerini açık görmek, dinsizliğe ve suç işleyeceğine işarettir. Ebu Said El-Vaiz’e göre; hamam iyilik evidir. Oraya girdiğini gören, kederli ise Allah’ın (C.C.) izniyle feraha çıkar. Hamamda gusül ettiğini gören, sıkıntıdan ve kederden kurtulur. Hamama girip orada içeriye girmesi, yasak olan bir şeye rastladığını görmek, eğer bu iyi bir şey ise zarar yoktur. Eğer fena ve mekruh bir şey ise hayırsızdır. Hamamın kapısını, penceresini, camını açmak, kederin azalmasına işarettir. Hamamda kandil yaktığını veya yandığını görmek, hayır değildir. Abdulgani Nablusi (R.A.)’e göre: rüyada hamama girip çok sıcak su ile yıkandığını gören kedere ve vehme düşer veya hasta olur. Hamamda bir içki meclisi kurduğunu gören, bir kadınla zina yapar, bu da halk arasında işitilir. Hamamın halvetine girip musluğun akmakta olduğunu, bunu kapatmak istediği halde kapanmadığını görmek, karısının başka biri ile ilişki kurduğuna ve kendisi bunu engellemek istediği halde başaramadığına; kurnadan taşan sıcak suların akıp gittiğini görmek, karısı ile aralarında kavga olmasına delalet eder. Bazı yorumcular, hamamı söyle yorumlamaktadırlar: Hamam cehennem, hamamcı bekçisidir. Hamam mahkeme, hamamcı validir. Hamam kadın, hamamcı kocasıdır. Hamam zina yeri, hamamcı yardımcısıdır. Hamam zindan, hamamcı zindancıdır. Hamam deniz, hamamcı gemi kaptanına işarettir. Bunlar görülen rüyanın şekline göre yorumlanarak, o rüya sahibine böylece anlatılır.  Rüyada hamama girip yıkandıktan sonra, üzerine beyaz elbise ve ayaklarına nalın giydiğini gören ölür. Çünkü yıkanmak; ölüm guslü, beyaz elbise kefen, nalın ise tabut işaretidir. Rüyada bir hastanın hamama girip yıkanarak çıktığını görmesi, hastalıktan kurtulmaktır. Mahkemede davası olan bir adam hamama girip yıkandığını görürse, davasını kazanır. Hamamda ayağı kayar yahut bayılır veya orada kalıp çıkmazsa, bu davayı kaybeder.  Rüyada hamama elbisesi ile girdiğini görmek; keder, zorluk ve hastalıktır. Hamama su yolundan veya pencereden girdiğini görmek, bir fahişenin evine girmektir. Hamamda vahşi hayvanlar veya haşerat ile birlikte bulunduğunu gören, fahişenin yanında birtakım kötü kişilerle birlikte bulunur. Rüyada hamama girip pak ve temiz ve gusül ederek çıkan, hidayete ulaşır veya borcunu ödeyip kurtulur veya Allah’ın (C.C.) affına nail olur. Bu rüya sahibi bekar ise evlenir, fakir ise zengin olur. Hamamda elbisesi ile yıkandığını gören, adı çıkmış bir kadına aşık olur veya borca girer.  Rüyada hamamın sıcak halvetinde elbisesi ile ve avret yeri açık olarak bir ölüyü görmek, onun ahirette azapta olduğuna; üzerinde güzel elbise ve güzel koku sürmüş ise ve bu halde hamamdan çıkıyor görmek, af ve gufran yolunda olduğuna işarettir. Hamamda, erkek-kadın karışık yıkandığını görmek, halkın isyan halinde bulunduğuna, asayişin bozulduğuna; bir rivayete göre de, o yerde kadın ve erkek birbirlerine karşı çok kızgın olduklarına ve birbirlerine fenalık yapacaklarına delalet eder. Rüyada hamamın suyunun kana dönüştüğünü, herkesin bu su ile yıkadıklarını görmek, orada hükümetin halka zulüm ettiğine yahut şeriat dışı işler yapıldığına delalet eder. Hamamda türkü söylediğini gören, cevabını alacağı fena bir söz söyler. Karanlık hamam, zindan; hamamın su hazinesi de hırsız kadınla yorumlanır. Ayrıca şu rüya tabiri ve yorumlara bakınız: Hamam Külhanı, Keselemek, Tellak, Banyo Etmek Hamam</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 75,
+      "row": {
+        "text": "<s>[INST] rüyada hamam böceği görmek ne anlama gelir [/INST] Rüyada hamam böceklerini görmek, zayıf düşman ile tabir edilir. Mayıs Böceği Görmek  Hamam Böceği</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 76,
+      "row": {
+        "text": "<s>[INST] rüyada hamam külhanı görmek ne anlama gelir [/INST] Rüyada hamam külhanı görmek, zalim, gaddar bir devlet adamı ile tabir olunur. Külhanın yanında oturduğunu gören, birtakım kötü kişilerle arkadaşlık eder. Onlarla birlikte kötülük işler. Rüyada külhandan ateş aldığını görmek, rüyayı görenin eline haram mal geçer. Külhana bir şey attığını gören para cezası verir. Hamam Külhanı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 77,
+      "row": {
+        "text": "<s>[INST] rüyada hamam böceği görmek ne anlama gelir [/INST] Rüyada hamam böceği görmek tabiri insana buğzettiği halde ona bir zarar vermeye güç yetiremeyen zayıf düşmana, sataşmasını sözden öteye geçiremeyen kimseye delalet eder. Rüyada hamam böceği öldürmek haram para, hilekarlık demektir. Hamam böceği</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 78,
+      "row": {
+        "text": "<s>[INST] rüyada hamamcı görmek ne anlama gelir [/INST] Rüyada hamamcı görmek; borcu ödemeye, üzüntü ve sıkıntının gitmesine, işlerin yapılmasına ve temizliğe işaret eder. Bazen de hamamcıyı görmek, sıkıntı ve darlığa veya hastalığa işaret eder.  Rüyada hamamcının üzerinde beyaz elbisenin olması, halkın üzüntü ve kederi gideren bir kimse olduğuna işaret eder. Hamamcı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 79,
+      "row": {
+        "text": "<s>[INST] rüyada hamdetmek görmek ne anlama gelir [/INST] Fakir için zenginliğe, çocuk bekleyen kimse için oğul evladına, takva ehli için tastamam hidayete, ziyade hayra ve dinin nuruna delalet eder.  (Ayrıca Bakınız; Şükretmek) Rüyada hamdetmek, ziyade hayra işaret eder. Kendisini Allahu Teala’ya hamd ediyor görse, o kimse dininde nur ve hidayete işarettir. Bazdan demiştir ki, rüyada Allaha hamd edenin oğlu olur.  Rüyada Allaha hamdetmek, fakir için zenginliktir. Allah’a hamd ettiğini gören, nimete ve iki alim oğula işarettir. Kişinin sıkıntılarından, dertlerinden kurtulacağına işaret eder. Hamdetmek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 80,
+      "row": {
+        "text": "<s>[INST] rüyada hamile görmek ne anlama gelir [/INST] Rüyada hamile bir kimse ile karşılaşmak, iş yerinizde veya aile içinde sizi bazı süprizlerin beklediğine; kendinizin hamile oldugunu görmek, beklediğiniz önemli bir işin hakikat olacağına veya müjdeli bir haber alacağınıza işarettir. Rüyada hamile olduğunuzu ve sağlıklı bir doğum yaptığınızı görmek, niyetlendiğiniz işin hayırlı bir şekilde başlayacağına işaret eder. Ayrıca Bakınız: Başkasını Hamile Görmek, Hamile Kadın, Arkadaşını Hamile Görmek Rüyada menopozlu birinin hamile olduğunu görmek, olmayacağını düşündüğünüz bir şeyin bir anda oluvereceğinin habercisidir. Rüyada erkek birini hamile görmek, bir kişiye çok kızacağınıza ve o kişinin yaptığı şeylere tahammülünün azalacağı şeklinde yorumlanır.  Rüyada çocuğu olan bir kişinin kendini hamile olarak görmesi, yeni bir çocuk yapmaya niyetlendiğine veya ailesindeki kişilerin bu tarz baskıları olacağı şeklinde yorulur. Rüyasında hamile olduğunu gören şayet erkek ise bu onun için sıkıntı ve iş konusunda meşakkatli işlerle yüz yüze gelmeye işaret eder. Rüyada erkek birinin karısını hamile olarak görmesi, eğer niyetlilerse bir bebeklerinin olacağına işaret eder. Rüyada hamile olduğunu gören kişi küçük bir kız çocuğu ise, aniden yakınlardan ve komşularından birinin hamile olduğunu öğrenir. Rüyada hamile olduğunu gören kişi aynı rüyada doğum sancısı çekiyorsa, başındaki bir sıkıntıdan biraz da olsa acı çekerek bir çırpıda kurtulur. Hamile</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 81,
+      "row": {
+        "text": "<s>[INST] rüyada hamilelik görmek ne anlama gelir [/INST] Rüyada hamile olduğunu görmek üzüntüye, tazarru ve niyazda bulunmaya işarettir. Rüyada doğum yaptığını görmek, üzüntüden kurtulmaya; kız doğurduğunu görmek borçlanmaya; doğurduğu kızın öldüğünü ve onun için mezar kazdığını görmek borcunu ödemeye delalet eder.  ( Ayrıca Bakınız; Gebelik, Hamile Kalmak) Rüyada hamile olduğunu görmek ne demek, mutsuz bir evlilik hayatı demektir. Rüyayı gören gerçek hayatta da hamileyse; bu, sorunsuz bir hamilelik dönemi geçirecek, sağlıklı bir çocuk dünyaya getireceksiniz anlamındadır. Rüyada hamile olduğunuzu gördüyseniz, mutsuz bir evlilik hayatınız olacak. Rüya sahibi gerçekte de hamileyse, sorunsuz bir dönem geçirecek ve sağlıklı bir çocuk sahibi olacak demektir. Rüyada hamile olduğunuzu görmek ne anlama gelir, mutsuz bir evlilik hayatını, eğer rüya sahibi gerçek hayatta da hamileyse, sorunsuz bir hamilelik dönemini gösterir. Ebu Said El-Vaize göre; bir kadının kendini hamile olarak görmesi, mal; bir erkeğin kendisini hamile görmesi hüzün ve kederdir. Rüya sahibi erkek veya kadın olsun, hamilelik görmek karnının büyüklüğü nispetinde mal ve dünya nimetlerine delalet eder. Henüz baliğ olmamış bir çocuğun kendisini hamile görmesi, babasıyla ve küçük kızın hamile olduğunu görmesi de annesi ile yorumlanır.  Kirmani söyle diyor: Rüyasında hamile olduğunu görenin mali artar. Karısının hamile olduğunu gören, dünya mallarından bir şey ister. Hamilelik gerek erkek ve gerek kadın için her durumda hayirlidir. Hayvanlardan birinin hamile olduğunu görmek, hayır ve menfaattir.  Bir başka rivayete göre de: Rüyada hamile olduğunu gören kadının, malının artmasına, övülmeye, izzet ve şerefe nail olmaya işaret eder. Erkeğin, kendisini hamile olduğunu görmesi, insanlardan gizlediği ve ortaya çıkmasından korkuları ağır bir üzüntü ve kedere işaret eder. Hamilelik, gerek erkek gerek dişi olsun, rüyayı gören kimse için dünyaca olan fazlalığa işaret eder.  Rüyada hamile kadını görmek, üzüntü ve kedere ve gizli işlere işaret eder. Erkeklerin hamileliği, alim için ilminin fazlalığına, meslek sahibi için hiç kimsenin yapamayacağı bir şeyi yapmasına işaret eder. Bazen de erkeğin hamileliği, onun üzüntü ve kedere düşmesine işaret eder. Bazen de hamilelik, aşk ve muhabbete işaret eder. Bazen de rüya, erkekle kadın arasını bir yerde birleştiren kimseye yahut hastalığa ya da evine hırsız girmesine veya çaldığı bir şeyi sahibinden gizlemesine işaret eder. Rüyada erkeğin hamileliği, kendisini iple helak etmesine işarettir. Bazen, o kimsenin yanında yabancı ölülerden sevdiği bir kimse defnedilir. Bazen de, mümkün olmayan şeylere yardım etmekle yalancı olur. Bazen, bozuk iman ve itikadı gizler. Bekar kızın kendisini hamile olarak görmesi, kendisi yüzünden ailesine gelecek uğursuzluk ve şiddete işaret eder. Bazen de o kızın bulunduğu yerde hırsız ve yangın gibi meydana gelecek kötülüğe işaret eder. Bazen de o kıza cin dokunmasına veyahut kendisine münasip ve layık olmayan birisine nikahlanmasına ya da uzun müddet evde kalmasına işaret eder.  Rüyada kısır kadının veya hayvanların erkeğinin hamileliği, senenin kıtlığına, hayvan azlığına, hırsızlar tarafından gelecek fitneye s-şerrin çok olmasına işaret eder. Kısır kadının yahut erkek hayvanlardan birisinin bir hayvan doğurmasını görmek, şer ve şiddetin gitmesine ve bir korku ve üzüntünün meydana çıkmasına işaret eder.  Rüyada bir kimse kendi hanımının hamile olduğunu görürse, dünya metasından bir şey arzu etmesine işaret eder. Kendisinin hamile olduğunu gören kimsenin mal ve dünyasındaki ziyadeliğe işaret eder. Hamilelik, gerek kadın gerekse erkek için her halde iyidir. Dul kadın ve genç kızın kendilerini hamile görmeleri, evlenmelerine işaret eder. Rüyada hamile olduğunuzu gördüyseniz, mutsuz bir evlilik hayatınız olacak. Rüya sahibi gerçekte de hamileyse, sorunsuz bir dönem geçirecek ve sağlıklı bir çocuk dünyaya getirecektir. Hamilelik</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 82,
+      "row": {
+        "text": "<s>[INST] rüyada hamsi balığı görmek ne anlama gelir [/INST] Rüyada hamsi görmek önemli bir iyiliğe nail olmaya, sevince delalettir. Gerek iş gerekse aile hayatında başarı ve huzura delalet eder. (Hamsi Ezmesi) Görmek Çok hamsi gören kimse, çok mal sahibi olur. Rüyada hamsi balıklarını yediğini gören kimsenin o maldan yararlanacağına işaret eder. Hamsi Balığı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 83,
+      "row": {
+        "text": "<s>[INST] rüyada hamsi yemek görmek ne anlama gelir [/INST] Balığı Rüyada bir balıkçıdan çok miktarda hamsi alarak yemek, hamsi yaptırdığınızı ve yediğinizi görmek; çok para kazanacağınıza, elinize uzak bir akrabadan bir miras geçeceğine veya devlet tahvillerinden büyük miktarda alacağınıza delalet eder. Hamsi Yemek</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 84,
+      "row": {
+        "text": "<s>[INST] rüyada hamsi görmek ne anlama gelir [/INST] Rüyada hamsi görmek, rüya sahibinin hayatındaki şans ve kısmetin artacağı şeklinde yorumlanmaktadır. İş ve eğitim hayatında hiç olmadığı şekilde hayırlı kapıların açılacağına işarettir. Rüya sahibinin maaşının artacağına, malının artacağına ve mülkünün çoğalacağına delalet edilmektedir. Bekar birisi rüyasında hamsi görürse, kısmetlerinin kat be kat artacağına delalet edilmektedir. Rüyada hamsi görmek tabiri, evli kimseler için evinde sohbetin ve bereketin artacağına işarettir. Evlenecek yaşa gelmiş evladı varsa onun için hayırlı bir kısmete işarettir. Genel olarak bakıldığında kişinin zenginliğine, kısmetine, şansına ve mutluluğuna alamet edilmektedir.  Yemek Rüyada hamsi almak görmek, hayatında yaşayacağı güzelliklere yorumlanmaktadır. Rüya sahibinin hem dünyevi hayatında hem de ahiret hayatında güzel olaylara delalet etmektedir. İlişkilerinizde güzel gelişmeler yaşanacağı şeklinde ifade edilmektedir. Aşk hayatınızda yaşanılan bu güzel gelişmeler sayesinde çok mutlu olacağınıza rivayet edilmektedir. Rüya sahibi ilişkilerini bir üst seviyeye taşıyacağı anlamındadır. Rüyada hamsi almak görmek ne demek: Rüya sahibinin aile hayatında aşının artacağına da işarettir. İş ve eğitim hayatında ise avans veya burs alacağı şeklinde yorumlanmaktadır. İş yerinde müdürlük veya yöneticilik konumuna yükselmesi demektir. Müdürlük veya yöneticilik makamında yaptığı çalışmalar ve projeler sayesinde kendisinden sıkça söz ettirdiği bilinmektedir. Bu çalışmalarından dolayı iş yeri hanesine ve ev hanesine yüklü bir miktarda para kazandıracağına yorulmaktadır. Kızartmak Rüyada hamsi kızarttığını görmek, dostlarınızla geçireceğiniz kaliteli vakitte işarettir. Rüya sahibinin yaşadığı sıkıntılı ve zor günlerinden kurtaracak bir dost eli olacağı yorumlanmaktadır. Uzun zamandır görüşemediğiniz bir arkadaşınızla buluşup muhabbet etmeye şeklinde anlam çıkarılmaktadır. Rüya sahibinin belirlediği hayallerin ve hedeflerin peşinde gitmesine işarettir. Bitmeye yakın umutlarının tekrardan yaşaracağı şeklinde yorumlanmaktadır. Kişinin iş hayatında bir yanlışı yapmada ısrarcı olmaya delalet edilmektedir. Uzunca süre bu yanlışlarının bedelini ödeyeceği anlamına gelmektedir. Rüyada hamsi kızarttığını görmek, ilişki yaşadığı kişi ile bir müddet birbirinden uzaklaşma anlamına gelmektedir. Bu rüya, rüya sahibinin manevi hayatı üzerine de yorumlanmaktadır. Dünyevi hayattaki amaçlarını birer birer bırakarak, ahiret hayatına her geçen gün yaklaştığı anlamına gelmektedir. Rüya sahibinin dinine göre bütün emir ve yasaklara dikkat edileceğine delalet edilmektedir.  Avlamak Rüyada hamsi temizlediğini görmek, iyilik bulmaya yorumlanmaktadır. Rüya sahibinin hayatı boyunca temiz insanlar karşılaşacağına ve şanslı olacağı anlamına gelmektedir. Kişinin sevdiği kişi ile sorunlar yaşayacağına delalet edilmektedir. Bu sorunlar karşısında kendine temiz ve hayırlı sayfa açacağına yorumlanmaktadır. Rüyada hamsi temizlediğini görmek, rüya sahibinin hayatındaki yaşadığı sıkıntılı insanlardan kısa sürede kurtulmaktadır. Rüya sahibi ticaret işi ile uğraşıyorsa zengin bir kimse ile ortaklığa gireceğine yorulmaktadır. Kısa süre içerisinde işleri toparlayarak, çevresinden takdir toplayacağına delalet edilmektedir. Rüyada hamsi temizlemek, iş hayatında atacağı adımlar ile duygusal davranmayacağına alamet edilmektedir. Bu dirençli tutumu sayesinde ilerleyen günlerde müdürlük mevkilerine yükseleceği anlamı çıkmaktadır. İş hayatında kazandığı kazancının bir süre boyunca azalmayacağına delalet edilmektedir. Rüya sahibinin bulunduğu olumsuz ortamdan kurtularak dert ve sıkıntılardan uzak bir hayat süreceğine alamet edilmektedir.   Rüyada hamsi ayıkladığını görmek, kötü arkadaşlıklarından kurtulacağına işaret etmektedir. Rüya sahibinin hayatında var olan dertlerin sona ereceği şeklinde yorumlanmaktadır. Rüya sahibinin artık hayatında mutlu ve huzurlu olacağına yorumlanmaktadır. Kişinin iş ve eğitim alanında kendisine çeşitli fırsatlar çıkaracağı şeklinde yorumlanmaktadır. Bu fırsatları değerlendirmeden önce çok ince ve etraflıca düşünülmesi gerektiğine delalet edilmektedir. Rüyada hamsi ayıkladığını görmek ne demek: Rüya sahibinin hayatında sevdiği insanların değerini bilmesini gerektiği anlamındadır. Sevdikleri ile dargın ise kısa sürede bu küslüğün son bulacağına işarettir. Kişinin annesi ile babası arasında bazı sorunlar yaşayacağına ve bir süre ayrı kalacağına delalet edilmektedir. Hamsi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 85,
+      "row": {
+        "text": "<s>[INST] rüyada hamur görmek ne anlama gelir [/INST] Rüyada hamur görmek; işlerin kolaylaşmasına, pek yakında görülecek rahat ve bolluğa, mahkum kimsenin hürriyete kavuşmasına, hamile kadının doğumunun yaklaşmasına işarettir. İşi, Maya, Un Rüyada hamurun mayalanarak taşması, ticarette görülecek ziyade kara; ekşiyerek taşması zarar etmeye; hamur yoğurmak misafir gelmesine; dar yerde hamur yoğurmak, haram işlemeye; rahat ve geniş ortamda hamur yoğurmak, refaha yahut evlenmeye işaret eder. Rüyada arpa hamuru yoğurmak dinde takvaya, düşmana galip gelmeye yahut memuriyete; hamur yoğuran kimseyi görmek, insanların gönlünde yer etmeye, adil ve şefkatli yöneticiye delalet eder. Rüyada hamur yoğurduğunu gören kimse kendi gayreti sayesinde başarılı olacak demektir. Tek başına girişim yaparak arzu ettiği konuma geleceğini işaret eder. Hamur mayalamak aileden aldığı parayı, sermayeyi artıracak ve bir servet sahibi olacak anlamındadır. Hamur kızartmak, murada ermek demektir. Rüyada hamur yoğurduğunu görmek, gören kişi kendi gayreti sayesinde başarılı olacak demektir. Tek başına girişim yaparak arzu ettiği konuma geleceğini işaret eder. Hamur mayalamak aileden aldığı parayı, sermayeyi artıracak ve bir servet sahibi olacak anlamındadır. Hamur kızartmak, murada ermek demektir. Hamur yoğurmak, kişinin kendi gayreti sayesinde başarıya ulaşacağına işarettir. Rüyada arpa unundan hamur yoğurduğunu görenin dini inancı bütündür. Eğer yoğurduğu hamur, buğday unundan ise, malının çoğalacağına ve kazancının artacağına delalet eder. Bir rivayete göre hamur görmek, akrabalarına kavuşmak için yolculuğa çıkacağına işarettir. Baska bir rivayete göre de ticaret maksadıyla yolculuğa çıkmaya işarettir. Hamur görmek, maksadına erişmek için insanın düşündüğü çarelere işarettir. Eğer hamur mayalı ise bu çareye yakında kavuşur; eğer mayasız ise bu çare gecikir. Bu hamurdan ekmek pişirdiğini görse maksadına ulaşır.  Bir başka rivayete göre de: Rüyada hamur görmek, kolay işlere, yakın bir gelecekte rahatlığa kavuşmaya, zindanda bulunan bir kimsenin veya hamile bir kadının kurtulmasına işaret eder. Hamur, elde edilecek maldır. Bir kimse rüyada evinde hamur görse, yaptığı ticaretten mal kazanır. Hamurun ekşidiğini ve kabından dışarı taştığını gören kimse, ticaretinde zarar eder. Hamur yoğurduğunu gören kimseye, misafir gelir. Rüyada hamur yoğurduğunu gören kimse kendi gayreti sayesinde başarıya gidecektir. Tek başına atılım yaparak istediği konuma gelecektir. Hamuru mayalayan insan, aileden aldığı parayı, sermayeyi çoğaltacak ve bir servet yapacaktır. Hamuru kabartan kimse, muradına erer. Hamuru atmak parayla ilgili zarardır. Bu rüyayı gören kimse şans oyunlarından uzak durmalıdır. Hamur yoğurduğunu gören kimse kendi gayreti sayesinde başarıya gidecektir. Tek başına atılım yaparak istediği konuma gelecektir. Hamur</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 86,
+      "row": {
+        "text": "<s>[INST] rüyada hamur işi görmek ne anlama gelir [/INST] Rüyada hamur işi görmek, kişinin yaptıklarının karşılığını alacağına ve sevineceğine işarettir. Rüyada hamur işi yaptığını gören bekar ise iyi bir eşle evleneceğine; bekar değilse mal elde edeceğine işaret eder. (Ayrıca bkz: Hamur, Hamurcu) Hamur İşi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 87,
+      "row": {
+        "text": "<s>[INST] rüyada hamur işi görmek ne anlama gelir [/INST] Rüyada hamur işi görmek, kişinin yaptıklarının karşılığını alacağına ve sevineceğine işarettir. Rüyada hamur işi yaptığını gören bekar ise iyi bir eşle evleneceğine; bekar değilse mal elde edeceğine işaret eder. (Ayrıca bkz: Hamur, Hamurcu) Hamur İşi</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 88,
+      "row": {
+        "text": "<s>[INST] rüyada hamurcu görmek ne anlama gelir [/INST] İşi Rüyada hamurcuyu görmek, rızka ve halkın işlerine özen göstermeye veya insanların sevgisini kazanmaya ve onlara eli ve diliyle güzel muamele yapan devlet başkanlığına işaret eder. Hamurcu</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 89,
+      "row": {
+        "text": "<s>[INST] rüyada hamza (r.a.) görmek ne anlama gelir [/INST] Rüyada Hz. Hamzayı görmek, bir dostun şehit olarak ölüm haberini almaya işaret eder. Suresi Bazı tabirciler, şefaat dileğinin kabul edileceğine, maddi ve manevi yükselmeye işaret eder, demişlerdir. Hamza (R.A.)</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 90,
+      "row": {
+        "text": "<s>[INST] rüyada han görmek ne anlama gelir [/INST] Otel, motel, kervansaray ve han gibi konaklama yerleri dünyadır. Çünkü dünya evi de bir çeşit yolculuk evidir. Geçici mesken amacıyla yapılan her çeşit bina yolculuğu; geçici hevese, mal/mülkten bıkılacağına yorulur.  Rüyada han görmek, zahmet ve meşakkatten sonra rahatta ermeye; geçimsizlikten sonra barışmaya ve iyi geçinmeye; verilen sözlerin tutulmayacağına delalet eder. Sevilen kişiler tarafından kandırılmaya, ihanete uğramaya ve hakkınızın yeneceğine işaret eder. Rüyada han (otel) görmek; rüyada karşılaşılan olaylara göre iyi veya fena anlamlar kazanır.  Rüyada hana girmek; iş, kısmet, değişiklik, haber, yol olarak yorumlanır. Hana girmek, hayırlı iş sahibi olacağınıza ve iş yerinde çok sevileceğiniz anlamına gelir. Rüyada eski bir handa kalmak, eskiden kalma bir handa misafir olarak kaldığınızı görmek, hancı ile konuşmak; bir iş gezisine çıkacağınıza, bu gezide hayırlı insanlarla tanışacağınıza işarettir. Zengin bir kimse ile karşılaşıp, ondan oldukça önemli faydalar elde edeceğinize delalet eder. Rüyada hancı görmek; yeni bir işe ve iş amirinin nasıl bir olacağına dair hususlara delalettir. Bazı yorumculara göre rüyada tanımadığı bir han görmek, gören kişi hasta ise hastalığında yeni gelişmeler olacağına işaret eder. Yolculuk etmeyi düşünüyorsa, gideceği yerde mutlu haberler alacak.  Abdulgani Nablusi’ye göre rüyada han görmek; zahmetten rahata, yalnızlıktan çokluğa ve yeni insanlarla dost olmaya delalet eder. Rüyasında yolcuların misafir olduğu hanların birinde olduğunu görmek; iyi şeylere yorulmaz, kötü haberlerin alınacağına yorulur. Bazılarına göre ise bu rüya sahibinin kederi varsa geçer, feraha çıkar; bekar biri ise hayırlı bir kısmeti çıkar ve evlenir, rahata kavuşur.  Rüyada ticari han görmek; ev, hayvan, araba veya yeni elbise sahibi olacağına yorulur. Yol üzerinde han görmek, gören kimsenin üzüntü ve keder yaşayacağına delalet eder. HAN</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 91,
+      "row": {
+        "text": "<s>[INST] rüyada hancı görmek ne anlama gelir [/INST] Rüyada hancı görmek yeni bir iştir. Hancı temiz, pak ve temiz yüzlü ise işi ve amiri iyi olur. Han (Otel) Görmek  Hancı</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 92,
+      "row": {
+        "text": "<s>[INST] rüyada hançer görmek ne anlama gelir [/INST] Rüyada hançer görmek mal ve zenginliğe; hançeri kınına sokmak, bir kadınla evlenmeye delalet eder. Düşmanlarınız olduğu anlamına gelir. Ayrıca bkz: Bıçak, Kılıç Ucu, Kılıç Rüyada hançer görmek ne demek, güç ve kuvvet anlamına gelir. Elinde hançer olduğunu gören kimse güçlenir. Elindeki hançeri kendine saplayan, işle ilgili hata işlemiş demektir. Başkasına saplayan, bir iyilik yapar ve karşılığını alır anlamındadır. Paslı hançer kişinin inat, huysuzluk nedeniyle çevresindekilerle arasının bozulacağını haber verir. Rüyada hançer görülmesi, düşman anlamına gelir. Hançer ile size saldırmaya çalışan bir kişiden kaçabildiğinizi gördüyseniz, düşmanınızı yenilgiye uğratacaksınız demektir. Güç, kuvvet, fevkalade güçlenmek demektir. Yapıldığı maddeye göre değişik yorumlar alır. Rüyada hançer görmek tabiri, düşmanlıkla yorumlanır.  Cabirül- Mağribi’ye göre; yanında başka silahı olmadığı halde yalnız hançer gören, büyük bir kişiden kuvvet alır. Yanında hançerden başka bir silahı olduğunu gören, düşmanına karşı üstün gelir.  Rüyada elinde hançer olduğu halde bir yöne doğru koştuğunu görmek, bilinmeyen bir düşmana karşı daima savaşa hazır olduğuna işarettir.  Bir başka rivayete göre de: Rüyada cebinde bir hançer olduğunu görmek, mal ve zenginliğe işarettir. Hançeri veya bıçağı kınına soktuğunu gören kimse nikahlanır. Rüyada hançer güç, kuvvet, fevkaladelik anlamına gelir. Elinde hançer olduğunu gören kimse güçlenir. Elindeki hançeri kendine saplayan, bir işle ilgili hata yapmıştır. Başkasına saplayan, bir iyilik yapar ve karşılığını görür. Paslı hançer insanın inat, huysuzluk vb. şeyler yüzünden çevresindekilerle bozulacağını haber verir. Rüyada hançer görülmesi, güç, kuvvet ve fevkaladelik anlamına gelir. Elinde hançer olduğunu kimse güçlenir. Elindeki hançeri kendine saplayan, bir işle ilgili hata yapmıştır. Hançer</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 93,
+      "row": {
+        "text": "<s>[INST] rüyada hanımeli görmek ne anlama gelir [/INST] Tohumu Rüyada hanımeli görmek, herkesin kıskanacağı ve haset edeceği kadar büyük mutluluğa işaret eder. Hanımeli</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 94,
+      "row": {
+        "text": "<s>[INST] rüyada hanımlar görmek ne anlama gelir [/INST] Rüyanızda birçok hanımların arasında bulunduğunuzu görmek, kendinizi çok yalnız hissettiğinize, ev halkının sizinle yakından ilgilenmedikleri için çok yalnızlık çektiğinize, bu bakımdan kendinize yeni bir teselli kaynağı aramak zorunda kaldığınıza delalet eder. Hanımları Rüyada hanımlar görmek, rüya sahibinin hayatında hayırlı kapıların açılacağına işarettir. Hiç beklemediği zamanlar da hayırlı ve güzel olaylar ile karşılaşacağı şeklinde yorumlanmaktadır. Bu olaylar karşısında büyük mutluluk ve sevinç yaşayacağına delalet edilmektedir. İş hayatında attığı her adımda hayırlı ve bol kazançlı çıkacağına delalet edilmektedir. Rüyada hanımlar görmek ne demek: Rüyayı gören kişinin hanesinde bereketin ve bolluğun süreceğine delalet edilmektedir. Kişinin aile bireylerinden müjdeli haberler alacağına işarettir. Aile bireyleri arasında daha da fazla vakit geçirmesi gerektiğine delalet edilmektedir. Rüya sahibi sosyal çevresinde vefalı bir dostla tanışacağına da işarettir. Bu dostluğu sayesinde iş ve aşk hayatı ile ilgili olarak büyük sorunları kolay bir şekilde aşacağına delalet edilmektedir. Kişinin maddi ve manevi olarak sıkıntısına çare bulunacağı anlamı çıkarılmaktadır. Bu olayların ardından çok hayırlı ve güzel olaylar ile karşılaşacağı anlamı çıkmaktadır.  Rüyada hanımların dedikodu yaptığını görmek, kişinin arkasından konuştuğu birisinin olduğu anlamına gelmektedir. Arkadaşlıkları ve dostluklarının ciddi anlamda sınanacağına alamet edilmektedir. Arkadaşları ile kısa sürelide olsa küskünlükler yaşayacağı anlamına gelmektedir. Rüya sahibinin çevresinde sürekli başkalarının ardından konuşan, uzak durulması gereken ve kötü niyetli insanlara yorumlanmaktadır. Rüyada hanımların dedikodu yaptığını görmek ne demek: Korktuğu kişilere karşı galip gelemeyeceği şeklinde yorumlanmaktadır. Bu insanlar yüzünden sıkıntılı ve zorlu bir dönem yaşayacağı anlamına gelmektedir. İş yerinde makamının ve itibarına gölge düşeceği şeklinde yorumlanmaktadır. Toplum içerisinde de mahcup olacağı bir duruma geleceğine işarettir. İlişkilerinde sevdiği kişiye karşı saygının ve sevginin azalacağına işaret edilmektedir. Rüya sahibi eğer evli ise evlilik hayatında sıkıntılı günler yaşayabileceğine delalet edilmektedir.  Rüyada hanımını başkasıyla görmek, rüya sahibinin evliliği hakkında ciddi sorunlar yaşayacağına işarettir. Kişinin hanımı ile ilgili güven konusunda ciddi sorunlar ve tartışmalar yaşayacağı anlamına gelmektedir. Bu güvensizlik durumu beraberinde sosyal ve iş hayatında da ciddi sıkıntılara gebe kalacaktır. Başkasıyla Görmek Rüyada hanımını başkasıyla görmek tabiri, eşine karşı duyduğu kıskançlık duygusunu da ifade edilmektedir. Gereksiz kıskançlık duygusundan dolayı evliliğinin veya ilişkisinin biteceğine işarettir. Rüya sahibinin bulunduğu kıskançlık duygusunun en yakın zamanda kontrol edilmesi gerektiğine delalet edilmektedir. Bir diğer anlamı ise dışardan aile içerisine verilecek zararı simgelemektedir. Bu zarar 3. kişiler tarafından yapılacak dedikodu, iftira ve fitneye yorumlanmaktadır. Bu olaylar yüzünden eşiniz ile aranızdaki bağların sınanacağına ve büyük huzursuzluklar yaşayacağınıza işaret edilmektedir. Rüya sahibi eğer aşk hayatında çarpık ilişkiler yaşıyorsa kişinin korktuğunu ifade etmektedir.  Rüyada hanımını hamile görmek, kişinin işinin ve bahtının açık olacağına işaret edilmektedir. Hiç beklemediği yerden mal ve mülk kalacağı şeklinde de yorumlanmaktadır. Çevresindeki kişiler tarafından fazla derecede övülerek saygı göstereceği anlamındadır. Sürpriz gelişmeler yaşayacağına ve bunun sonunda hayatının olumlu yönde değişeceğine işarettir. Bazı durumlarda ise iş hayatında sevindirici haberler alacağına işarettir. Kişinin izzet ve şerefe nail olacağına delalet edilmektedir. Rüyasındaki hanımının karnının büyüklüğüne göre dünya nimetlerinden faydalanacağı şeklinde yorumlanır. Rüyada hanımını hamile görmek ne demek: Hayatınızda bolluk ve berekete işarettir. Eşiniz ile yaşayacağınız huzura ve saadetli günlere yorumlanmaktadır. Rüya sahibinin hanımı gerçekten hamile ise sorunsuz bir hamilelik dönemi geçireceğine işarettir. Hanımı sağlıklı bir çocuk dünyaya getireceğine delalet edilmektedir.  Rüyada hanımını kıskandığını görmek, rüya sahibinin manevi yönlerinin güçleneceğine işarettir. Yaşadığı yeni arkadaşlıklarında yakın ilişkilerde bulunacağına delalet edilmektedir. Kurulan bu yakın ilişkiler sayesinde hayırlı bir eşe sahip olacağına delalet edilmektedir. İş hayatında alacağı başarılar ile toplumun öncüsü olacağı şekilde tabir edilir. Toplumda tanıdığı ve takip ettiği kişi olacağına delalet edilmektedir. Yaptığı işte karlı kazançlar elde edeceği şeklinde anlam çıkarılmaktadır.  Rüyada hanımını başka bir erkekle görmek, rüya sahibinin zor günler yaşayacağına delalet edilmektedir. Arkadaş ve dostlukları yüzünden hayatında çekilecek çileler anlamına gelmektedir. Rüyada hanımını başka bir erkekle görülmesi, yaptığı günahlardan dolayı rahatsızlık duyduğuna işarettir. Bu rahatsızlığından dolayı kendisini iyilik yapmaya görev edinen birisi olacağına delalet edilmektedir.  Hanımlar</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 95,
+      "row": {
+        "text": "<s>[INST] rüyada hap görmek ne anlama gelir [/INST] Rüyada hap görmek, rüya sahibinin moral bozukluğu yaşayacağı şeklinde yorumlanmaktadır. İş ve eğitim hayatında eskisi kadar randımanlı çalışamayacağına işarettir. Yaşam enerjisi daha önceki günlerden daha fazla düşeceği şeklinde yorumlanmaktadır. Rüya sahibinin arkadaşlıkları arasında küçük çaplı da olsa tartışmalar yaşayacağına delalet edilmektedir. Rüya sahibi bu tartışmalardan tadı kaçmasına neden olacağı şeklinde yorumlanır. Rüyada hap görmek tabiri, düşmanlarına karşı gafil avlanmasına işaret etmektedir. Kişinin aile arasında geçici üzüntü ve problem yaşayacağı anlamına gelmektedir. Kişinin hayatında daha fedakâr, ince düşünen ve dürüst olması gerekmektedir. Eski arkadaşlarının yaptığı iyiliklere nankörlük yapmaması gerektiğini anlamlandıran uyarı şeklinde bir rüyadır.  Rüyada hap içtiğini görmek, iki türlü tabir edilmektedir. İlk olarak rüyayı gören kişinin hayata karşı umutlarının yakılmasına ve her şeyin eski güzel günlere döneceğine inandıramaması şeklinde yorumlanmaktadır. Arkadaşları ile arasında bazı tatsız olaylar yaşamak zorunda kalacağına delalet edilmektedir. Yaşanılan bu zorluğa ve sıkıntıya sabır gösterecek anlamını taşımaktadır. Rüyada hap içtiğini görmek ne demek: İş hayatında yeni gelişmeler yakalanacağına işarettir. Bu gelişmeler sayesinde topluma daha faydalı bir birey olacağı şeklinde yorumlanmaktadır. Toplumun ve çevrenin parmakla göstereceği bir insan olacağına delalet edilmektedir. Rüya sahibi kısa sürede de olsa küçük çaplı bir ün yaşayacağına işarettir. Rüya sahibi eğitim hayatında rakiplerini geride bırakacağı şeklinde yorumlanır. Rakiplerini geride bırakarak çevresindeki düşmanlarına galip geleceğine tabir edilir. Düşmanları tarafından göze geleceğine delalet edilmektedir. Rüyada uyku ilacı içtiğini görmek, rüya sahibinin sosyal hayatında birtakım sıkıntılar yaşayacağına işarettir. Rüyayı gören kişi yanlış arkadaş seçimlerinden dolayı keyifsizliğine ve moral bozukluğuna yorulmaktadır. Ağız tadının uzunca bir süre olmayacağına delalet edilmektedir. Yaşadığı bu sorunlardan kendi başına çözümleyemeyecek hale gelecektir. Rüyada uyku hapı içtiğini görmek ne demek: İş hayatında yaşadığı sorunları çözüme kavuşturacağına işarettir. Rüya sahibi eğer yeni bir işe atılmak istiyorsa tereddütsüzce bu işe başlamalıdır. Bu işe başladıktan sonra hanesine bolluk ve bereket gelecektir. Sosyal hayatında yaşadığı birtakım sıkıntıları iş yerinde olan imkanları sayesinde ve iş arkadaşlarının yardımı ile çözümlemeye kavuşturacaktır.  Rüyada hap içip zehirlendiğini görmek, çevresi tarafından iftiraya uğrayacağı anlamına gelmektedir. Güvendiği kişilerden bu zararı görerek kendisinde ağır hasarlar bırakılacağına delalet etmektedir. Rüya sahibi psikolojik durumundan dolayı bilinçsiz bir şekilde hareket edeceğine ve kararlar vereceğine delalet edilmektedir. Bu sorunlarından dolayı finansal durumunun kötüye gideceğine işarettir. Finansal durumu kötüye giderek itibarını ve gücünü en yakın zamanda kaybedeceğine delalet edilmektedir. Rüyada hap içip zehirlenmek, iş hayatında yanlış kararlar vererek para hırsına yenik düşeceğine delalet edilmektedir. Rüya sahibi para hırsından dolayı her türlü yolsuzluğu gerçekleştireceğine delalet edilmektedir. Hak yolunu terk edip ahiret hayatına da zarar vereceği şeklinde yorumlanmaktadır.  Rüyada uyuşturucu görmek, genellikle kötü bir anlama gelmektedir. Rüya sahibinin şansının kötüye gideceğine işarettir. İş, okul veya sosyal hayatında üst üste kötü haberler alacağına delalet edilmektedir. Rüyayı gören kişi şansının hiç olmadığı kadar kötüye gideceği şeklinde yorumlanmaktadır. Rüyada uyuşturucu görmek tabiri, ciddi bir şekilde aile baskısı yaşayacağına delalet edilmektedir. Rüya sahibinin arkadaşlıkları arasında ona çok büyük zarar vermek isteyenlerin olacağı şeklinde de yorumlanmaktadır. Bu kişilerin hiç beklemediğiniz kişiler olacağına delalet edilmektedir.  Çekmek Rüyada ağrı kesici hap görmek, rüyayı gören kişinin ailesi ile ciddi sorunlar yaşayacağına delalet edilmektedir. Bu sorunlar sadece ailesi ile sınırlı kalmamaktadır. Kişinin çok yakın arkadaş çevresi ile tartışmalar yaşayacağı rivayet edilmektedir. Rüyada ağrı kesici hap görmek ne demek: Rüya sahibinin finansal anlamda sıkıntılar yaşayacağına işarettir. Bu sıkıntılar sonucu borçlarının artacağına delalet edilmektedir. Rüya sahibi helal yoldan para kazanmamaya başlayacağına işarettir. Kişinin günah işleyeceğine yorumlanmaktadır. Hap</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 96,
+      "row": {
+        "text": "<s>[INST] rüyada hapislik görmek ne anlama gelir [/INST] Rüyada hapis olmak, zillet, üzüntü ve kederdir. Bundan dolayı tanıdığın bir valinin kendisini hapsettiğini görse, üzüntüye düşer. Bir kimse kendisinin, kireçle yapılmış bir odaya hapsedildiğini görse, ölür ve oda kabir olur. Hapishane olarak kullanılmayan başka bir odada ayakları bağlı ve odanın kapısı da üzerine kapanmış olarak gören kimseye bir hayır isabet eder. Rüyada eğer o yerde kendisine azap edildiğini görürse, hayır ve akibet cihetiyle daha iyidir. Bazıları da, hapis olmak zillet ve hakarettir, dediler. Kadının rüyada, sultanın kendisini hapsettiğini görmesi, büyük bir adamla evlenmesine işaret eder. Ayrıca Hapishane, Hapis, Hapis / Zindan, Zindan, Zindan / Zindancı açıklamalarına da bakınız. Hapislik</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 97,
+      "row": {
+        "text": "<s>[INST] rüyada hapis görmek ne anlama gelir [/INST] Bazı sorunlardan kurtulup sonunda mutlu olacağınız anlamına gelir. Rüyada birinin hapisten kurtulduğunu görmek, sevinmek anlamına gelir. Vurmak, Ziyaret Etmek Rüyayı gören kişi, ölen kişinin kabir sorgusundan endişeli olduğunuzun onun hayra ve barışa yönelik yeterince iş yapmadığıyla ilgili kaygılarınız olduğuna delalet eder. Rüyada hapiste olduğunuzu gördüyseniz, birtakım sorunlardan kurtulacağınız ve sonunda mutlu olacağınız anlamına gelir. Rüyada hapis veya hapishane görmek, hayırlı olmadığı durumlar da vardır. Rüyasında bir suç işleyerek hapis olduğunu görmek, işinden veya memuriyetinden atılacağına işarettir. Hapishaneden tahliye edildiğini görmek, yeni bir işe girmek için bir yere başvurduğuna veya bir işten başka bir işe girmek için ayrıldığına delalet eder. Bir polisin kendisine kelepçe vurarak hapishaneye veya adliyeye götürdüğünü gören, başkaları tarafından kötü bir iftiraya uğrar. Elinden kelepçelerinin çıkarıldığını görmek, iftira sonunda hakikatin anlaşıldığına delildir. Rüyada hapisten kaçmak görmek, dertlerinizden kurtulmak için çok çaba harcayacağınıza ,biraz sıkıntılı da olsa hak etmediğiniz bu durumdan sıyrılıp kurtulacağınıza işaret eder. Hapis</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 98,
+      "row": {
+        "text": "<s>[INST] rüyada hapishane görmek ne anlama gelir [/INST] Rüyada bilinmeyen hapishane görmek; dünyaya, huysuz ve geçimsiz eşe, töhmet altında olmaya işaret eder. Rüyada hapishaneye girmek; başını dinlemeye, uzun ömre ve tanıdıklarla bir araya gelmeye delalet eder. Hapishane kasvete, monoton hayata; kapalı tutulduğu yerdeki pencere, oradan sızan ışık ve görülen gökyüzü sevince ve kurtuluşa işarettir. (Bkz: Kelepçe) Rüyada hapishane görmek ne demek, bazen duaların kabul olmasına, ıstırapla olgunlaşan kimseye delalettir. Rüyada bir eve hapsolduğunu görmek, o evden bir kadınla evlenmeye; ölünün hapishanede görünmesi, arkada borç bırakmış olduğuna işarettir. Rüyada mahkum olduğunu görmek; üzüntü ve kedere yahut önemli birinin hak yolunu bulmasına vesile olmaya işaret eder. Evden uzakta, bilinmeyen bir yerde dar bir yere hapsedildiğini görmek, vefat etmeye; kadının kendini bir yere hapsedilmiş görmesi, evlenmesine delalet eder.  (Ayrıca Bakınız; Gardiyan) Rüyada hapishane görmek ne demek: Uğursuzluk ve mutsuzluk demektir. Layık olmadığını düşündüğünüz bir kişiye bazı haklar vermeniz istenecek. Mantıklı düşünün ve bu konuda daha doğru kararlar vermeye çalışın. Ayrıca bu rüya, yaklaşan büyük sorun ve sıkıntıdır. Çok dikkat etmek gerekir. Rüyada bilinmeyen bir zindana girdiğini gören, mezara girer. Girdiği zindan tanınmış bir yer ise, gam ve kederle yorumlanır.  Kirmani’ye göre; fesatçı olmayan bir kimse için tanınmış bir zindana girdiğini görmek, din ve menfaattir. Eğer rüya sahibi fesat bir kimse ise rüyası keder ve sıkıntıya, malından ve kudretinden eksilmeye delalet eder. Devlete ait bir zindanda olduğunu görmek, kötü bir haber almaya, vehim ve kedere işarettir. Eğer rüya sahibi yolcu ise yolunda zahmet çeker. Eğer hasta ise hastalığı artar.  Rüyada zindandan çıktığını görmek, bütün bunlardan kurtulmaya yorumlanır. Bazılarına göre; rüyada görülen zindan, kabul olunan dua ile tabir olunur. Kendisini yeri yurdu ve kime ait olduğu bilinmeyen bir zindanda gören ve ondan çıkamayan mezara girer. Bir odada mahpus olduğunu gören hayra erer.  Rüyada eve benzeyen bir yerde tutuklu olduğunu gören, bir kadınla evlenip ondan hem mala hem de evlada nail olur. Bir kadın zindanda olduğunu görse, kocaya varır. Eğer rüyayı gören evli bir kadın ise başka bir hayır görür. Kendisini iyi bir yerde, oradan çıkması imkansız olan bir halde kapalı görmesi, din icaplarını kaza etmeye ve nimete delalet eder.  Rüyada hapisten ve zindandan kurtulduğunu gören, din ve dünyasında mekruh ve istenmeyen hallerden kurtularak hayra erişir. Bilinmeyen bir zindandan veya dar bir kapıdan çıktığını görmek, bütün işlerinde hayırdır.  Rüyada zindandan çıktığını ve yine oraya dönmek istediğini gören, kötü bir iş işlemeye niyet eder. Tekrar zindana girdiğini görmek, yeniden günah işleyeceğine delalet eder.  Cafer-i Sadık’a göre; hapis ve zindan görmek, eğer tanınıyorsa, muradın olacağına; eğer bilinmeyen bir hapishane veya zindan ise, kedere ve gama delalet eder. Zindan veya hapishaneden kaçtığını gören, ya zahmet ve eziyetten kurtulur veya ölür. Zindana girip hemen çıktığını görmek, arzuladığı şeye tamamıyla kavuşmaya işarettir. (Bkz: Eziyet Çekmek) Bir başka rivayete göre de: Hapishane şiddetli ve meşakkatli hanıma, şiddet ve meşakkate sebep olan şeylere sükut etmeye ve manasız söz söylemekten dilini menetmeye, düşman tarafından meydana gelecek hileye işaret eder. Hapishane itham edilmeye, büyük adamlara yaklaşmaya, kabre, borca, hastalık veya azminde meydana gelen kusur ve tembellik sebebiyle yolculuğu terk ederek oturmaya, fakirlik ve rahatsızlığa işaret eder.  Rüyada hapishaneye girmek, uzun ömre ve dostlarla bir araya gelmeye işaret eder. Hapishane, üzüntü ve kederdir. Rüyada hapishaneyi tercih eden kimse, günahtan mahfuz olur. Hapishaneden çıktığını gören kimse hastalıktan kurtulur. Hapis olan bir kimse rüyada hapishanenin kapılarının açılmış olduğunu görürse, hapislikten kurtulur. Rüyada hapishane içerisinde ışık giren bir pencere görse veya hapishanenin tavanının gitmiş ve yıldızların meydana çıkmış olduğunu görse, yine o kimsenin hapisten kurtulmasına işaret eder.   Misafir için afiyet, hasta için ölümdür. Bazı tabirciler, bir kimse rüyada zindanda olduğunu görse, Yusuf Aleyhisselamın kıssasına binaen o kimsenin dualarının makbul olmasına üzüntü ve kederden kurtulmasına işaret eder.  Bir kimse rüyada heyeti meçhul bir hapishanede olduğunu ve oradan çıkmadığını görse, o hapishane onun kabridir. Bir kimse rüyada evi içerisinde prangaya vurulduğunu görse, o kimse iyilik elde eder ve hayırlı olan şeyleri çoluk çocuğunda görür.  Rüyada bilmediği bir evde hapsolduğunu gören kimse, o evden bir kadınla evlenir ve ondan eline mal ve evlat geçerek istifade eder. Kendisini rüyada prangaya vurulduğunu ve sıkıntı içerisinde olduğunu gören kimse, korktuğu ve kaçındığı şeylerden kurtulur. Rüyada bir hapishane yaptığını gören kimse hak ve doğru yolu gösteren bir zatla karşılaşır ki, onun mahalle ve şehir halkı o zata uymaları sebebiyle nefsani arzularını terk ederek doğru yola dönerler. Bazen hapishane kişiyi tasarruf ve hareketten meneden hastalığa, gururlanmaya, boş şeylere itimat edip aldanmaya, bazen de cehenneme işaret eder.  Bir kimse rüyada bir ölünün zindanda olduğunu görse, o ölünün üzerinde ödenmemiş kul hakki ve borcu olması sebebiyle cehennemde hapis bulunduğuna işaret eder. Hayatta olan bir kimse rüyada kendisinin hapishanede olduğunu görse, o kimse karada veya denizde yolculuk yapmak arzusunda ise yağmur veya rüzgar yahut düşman ya da bir korkudan dolayı kendisini yolculuğundan menedecek bir engelin çıkmasına işaret eder. Eğer yolculuk yapmak arzusunda değil ise kilise, küfür ve bidat evi veya meyhane ve genelevi gibi bir yere girer ve günah işler. Ayrıca şu rüya tabiri ve yorumlara bakınız: Firar Etmek, Hücre, Suçlunun Boynuna Vurulan Demir Halka Hapishane</s>"
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 99,
+      "row": {
+        "text": "<s>[INST] rüyada hara görmek ne anlama gelir [/INST] Bolluk, murat, kısmet ile ilgilidir. Hara</s>"
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 8897,
+  "num_rows_per_page": 100,
+  "partial": false
+}

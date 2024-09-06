@@ -1,0 +1,8 @@
+[tool.pylint.'MESSAGES CONTROL']
+
+disable=[
+  'no-name-in-module',
+  'non-ascii-file-name',
+  'invalid-name',
+  'missing-module-docstring'
+]

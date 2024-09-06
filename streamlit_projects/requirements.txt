@@ -1,0 +1,15 @@
+python-dotenv
+pandas
+langchain
+langchain-core
+langchain-openai
+langchain-community
+python-dotenv
+beautifulsoup4
+faiss-cpu
+streamlit
+streamlit-chat
+chromadb
+lark
+datasets
+bcrypt==4.1.1
